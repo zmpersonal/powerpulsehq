@@ -1,27 +1,60 @@
-name: Deploy GitHub Pages
+name: Update PowerPulse data and deploy
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '17 9 * * 1'
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: powerpulse-data
+  cancel-in-progress: false
 jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify EIA API secret
+        run: test -n "$EIA_API_KEY" || (echo "::error::Missing repository secret EIA_API_KEY" && exit 1)
+      - name: Refresh EIA electricity index
+        run: python scripts/update_eia.py
+      - name: Rebuild PowerPulse pages and datasets
+        run: python scripts/build_site.py
+      - name: Verify only one InHouse Wellness link exists
+        run: |
+          COUNT=$(grep -Rho 'https://inhousewellness.com[^"< ]*' --include='*.html' . | wc -l)
+          echo "InHouse outbound link count: $COUNT"
+          test "$COUNT" -eq 1 || (echo "::error::Expected exactly one InHouse Wellness link" && exit 1)
+      - name: Commit refreshed data
+        run: |
+          git config user.name "powerpulse-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data states cost-to-run electricity-prices rankings sitemap.xml index.html
+          git diff --cached --quiet || git commit -m "Refresh PowerPulse electricity index"
+          git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload refreshed site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
   deploy:
+    needs: update
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v6
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: '.'
-      - name: Deploy to GitHub Pages
+      - name: Deploy refreshed site
         id: deployment
         uses: actions/deploy-pages@v4
