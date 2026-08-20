@@ -1,52 +1,52 @@
 state_code,state,period,rate_cents_kwh,month_over_month_pct,year_over_year_pct,five_year_pct,live
-AL,Alabama,2024 annual starter snapshot,15.25,,,,False
-AK,Alaska,2024 annual starter snapshot,24.91,,,,False
-AZ,Arizona,2024 annual starter snapshot,14.78,,,,False
-AR,Arkansas,2024 annual starter snapshot,12.32,,,,False
-CA,California,2024 annual starter snapshot,31.87,,,,False
-CO,Colorado,2024 annual starter snapshot,14.82,,,,False
-CT,Connecticut,2024 annual starter snapshot,29.15,,,,False
-DE,Delaware,2024 annual starter snapshot,16.48,,,,False
-DC,District of Columbia,2024 annual starter snapshot,18.15,,,,False
-FL,Florida,2024 annual starter snapshot,15.09,,,,False
-GA,Georgia,2024 annual starter snapshot,13.8,,,,False
-HI,Hawaii,2024 annual starter snapshot,42.55,,,,False
-ID,Idaho,2024 annual starter snapshot,11.24,,,,False
-IL,Illinois,2024 annual starter snapshot,15.71,,,,False
-IN,Indiana,2024 annual starter snapshot,14.41,,,,False
-IA,Iowa,2024 annual starter snapshot,13.3,,,,False
-KS,Kansas,2024 annual starter snapshot,13.38,,,,False
-KY,Kentucky,2024 annual starter snapshot,12.81,,,,False
-LA,Louisiana,2024 annual starter snapshot,11.65,,,,False
-ME,Maine,2024 annual starter snapshot,23.43,,,,False
-MD,Maryland,2024 annual starter snapshot,17.84,,,,False
-MA,Massachusetts,2024 annual starter snapshot,29.35,,,,False
-MI,Michigan,2024 annual starter snapshot,19.06,,,,False
-MN,Minnesota,2024 annual starter snapshot,15.34,,,,False
-MS,Mississippi,2024 annual starter snapshot,13.98,,,,False
-MO,Missouri,2024 annual starter snapshot,12.79,,,,False
-MT,Montana,2024 annual starter snapshot,12.49,,,,False
-NE,Nebraska,2024 annual starter snapshot,11.69,,,,False
-NV,Nevada,2024 annual starter snapshot,15.07,,,,False
-NH,New Hampshire,2024 annual starter snapshot,23.8,,,,False
-NJ,New Jersey,2024 annual starter snapshot,19.49,,,,False
-NM,New Mexico,2024 annual starter snapshot,14.49,,,,False
-NY,New York,2024 annual starter snapshot,24.02,,,,False
-NC,North Carolina,2024 annual starter snapshot,13.03,,,,False
-ND,North Dakota,2024 annual starter snapshot,11.38,,,,False
-OH,Ohio,2024 annual starter snapshot,15.12,,,,False
-OK,Oklahoma,2024 annual starter snapshot,12.13,,,,False
-OR,Oregon,2024 annual starter snapshot,14.09,,,,False
-PA,Pennsylvania,2024 annual starter snapshot,18.1,,,,False
-RI,Rhode Island,2024 annual starter snapshot,28.48,,,,False
-SC,South Carolina,2024 annual starter snapshot,14.28,,,,False
-SD,South Dakota,2024 annual starter snapshot,12.55,,,,False
-TN,Tennessee,2024 annual starter snapshot,12.38,,,,False
-TX,Texas,2024 annual starter snapshot,14.92,,,,False
-UT,Utah,2024 annual starter snapshot,11.31,,,,False
-VT,Vermont,2024 annual starter snapshot,22.23,,,,False
-VA,Virginia,2024 annual starter snapshot,14.01,,,,False
-WA,Washington,2024 annual starter snapshot,11.36,,,,False
-WV,West Virginia,2024 annual starter snapshot,14.26,,,,False
-WI,Wisconsin,2024 annual starter snapshot,17.01,,,,False
-WY,Wyoming,2024 annual starter snapshot,12.18,,,,False
+AL,Alabama,2026-05,16.77,-3.68,3.84,24.96,True
+AK,Alaska,2026-05,28.23,3.22,8.24,22.63,True
+AZ,Arizona,2026-05,15.23,-1.61,-3.06,16.79,True
+AR,Arkansas,2026-05,14.36,1.41,8.87,26.63,True
+CA,California,2026-05,33.25,-5.67,-0.12,46.22,True
+CO,Colorado,2026-05,16.16,-2.3,3.72,28.97,True
+CT,Connecticut,2026-05,27.37,-15.11,-13.36,23.79,True
+DE,Delaware,2026-05,19.38,3.14,6.89,45.06,True
+DC,District of Columbia,2026-05,25.4,-0.04,24.33,90.12,True
+FL,Florida,2026-05,15.17,-1.37,1.34,29.0,True
+GA,Georgia,2026-05,15.84,3.06,5.74,20.36,True
+HI,Hawaii,2026-05,52.0,11.54,26.74,57.62,True
+ID,Idaho,2026-05,12.35,-2.76,3.96,19.67,True
+IL,Illinois,2026-05,23.85,16.51,28.36,68.19,True
+IN,Indiana,2026-05,18.15,1.4,7.4,28.54,True
+IA,Iowa,2026-05,14.14,2.02,-0.14,5.76,True
+KS,Kansas,2026-05,15.13,-4.12,2.72,9.32,True
+KY,Kentucky,2026-05,14.98,-0.27,8.16,26.52,True
+LA,Louisiana,2026-05,14.15,-2.01,6.71,21.25,True
+ME,Maine,2026-05,28.63,0.74,2.58,72.37,True
+MD,Maryland,2026-05,21.77,-1.36,14.58,69.02,True
+MA,Massachusetts,2026-05,28.82,-2.14,-3.61,27.02,True
+MI,Michigan,2026-05,22.01,2.9,8.8,24.35,True
+MN,Minnesota,2026-05,16.95,3.42,7.01,24.36,True
+MS,Mississippi,2026-05,16.16,-3.58,8.89,31.92,True
+MO,Missouri,2026-05,13.68,-2.36,5.15,20.21,True
+MT,Montana,2026-05,14.67,5.54,13.9,30.05,True
+NE,Nebraska,2026-05,13.59,2.33,3.35,20.69,True
+NV,Nevada,2026-05,13.6,-4.83,2.33,22.3,True
+NH,New Hampshire,2026-05,27.33,0.33,13.78,36.99,True
+NJ,New Jersey,2026-05,23.27,-1.1,13.62,45.89,True
+NM,New Mexico,2026-05,14.12,-6.8,-2.62,7.21,True
+NY,New York,2026-05,29.93,1.63,12.14,50.18,True
+NC,North Carolina,2026-05,15.09,-7.14,5.38,29.53,True
+ND,North Dakota,2026-05,13.61,10.2,3.89,13.8,True
+OH,Ohio,2026-05,19.52,0.15,14.22,50.27,True
+OK,Oklahoma,2026-05,13.38,0.53,3.4,22.98,True
+OR,Oregon,2026-05,16.27,3.11,2.26,39.9,True
+PA,Pennsylvania,2026-05,21.55,0.37,11.72,55.6,True
+RI,Rhode Island,2026-05,29.46,4.1,1.59,41.63,True
+SC,South Carolina,2026-05,16.18,-5.16,5.0,25.52,True
+SD,South Dakota,2026-05,15.73,8.33,9.77,20.17,True
+TN,Tennessee,2026-05,14.47,-3.15,5.39,26.6,True
+TX,Texas,2026-05,16.44,-3.24,5.86,35.98,True
+UT,Utah,2026-05,12.96,-2.48,2.86,29.21,True
+VT,Vermont,2026-05,24.89,1.34,4.8,27.18,True
+VA,Virginia,2026-05,17.61,1.32,15.4,46.02,True
+WA,Washington,2026-05,14.95,4.11,9.52,46.43,True
+WV,West Virginia,2026-05,16.8,4.61,3.83,33.76,True
+WI,Wisconsin,2026-05,19.74,2.76,4.22,29.1,True
+WY,Wyoming,2026-05,14.8,0.82,7.09,29.71,True
