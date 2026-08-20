@@ -1,0 +1,52 @@
+state_code,state,period,rate_cents_kwh,month_over_month_pct,year_over_year_pct,five_year_pct,live
+AL,Alabama,2024 annual starter snapshot,15.25,,,,False
+AK,Alaska,2024 annual starter snapshot,24.91,,,,False
+AZ,Arizona,2024 annual starter snapshot,14.78,,,,False
+AR,Arkansas,2024 annual starter snapshot,12.32,,,,False
+CA,California,2024 annual starter snapshot,31.87,,,,False
+CO,Colorado,2024 annual starter snapshot,14.82,,,,False
+CT,Connecticut,2024 annual starter snapshot,29.15,,,,False
+DE,Delaware,2024 annual starter snapshot,16.48,,,,False
+DC,District of Columbia,2024 annual starter snapshot,18.15,,,,False
+FL,Florida,2024 annual starter snapshot,15.09,,,,False
+GA,Georgia,2024 annual starter snapshot,13.8,,,,False
+HI,Hawaii,2024 annual starter snapshot,42.55,,,,False
+ID,Idaho,2024 annual starter snapshot,11.24,,,,False
+IL,Illinois,2024 annual starter snapshot,15.71,,,,False
+IN,Indiana,2024 annual starter snapshot,14.41,,,,False
+IA,Iowa,2024 annual starter snapshot,13.3,,,,False
+KS,Kansas,2024 annual starter snapshot,13.38,,,,False
+KY,Kentucky,2024 annual starter snapshot,12.81,,,,False
+LA,Louisiana,2024 annual starter snapshot,11.65,,,,False
+ME,Maine,2024 annual starter snapshot,23.43,,,,False
+MD,Maryland,2024 annual starter snapshot,17.84,,,,False
+MA,Massachusetts,2024 annual starter snapshot,29.35,,,,False
+MI,Michigan,2024 annual starter snapshot,19.06,,,,False
+MN,Minnesota,2024 annual starter snapshot,15.34,,,,False
+MS,Mississippi,2024 annual starter snapshot,13.98,,,,False
+MO,Missouri,2024 annual starter snapshot,12.79,,,,False
+MT,Montana,2024 annual starter snapshot,12.49,,,,False
+NE,Nebraska,2024 annual starter snapshot,11.69,,,,False
+NV,Nevada,2024 annual starter snapshot,15.07,,,,False
+NH,New Hampshire,2024 annual starter snapshot,23.8,,,,False
+NJ,New Jersey,2024 annual starter snapshot,19.49,,,,False
+NM,New Mexico,2024 annual starter snapshot,14.49,,,,False
+NY,New York,2024 annual starter snapshot,24.02,,,,False
+NC,North Carolina,2024 annual starter snapshot,13.03,,,,False
+ND,North Dakota,2024 annual starter snapshot,11.38,,,,False
+OH,Ohio,2024 annual starter snapshot,15.12,,,,False
+OK,Oklahoma,2024 annual starter snapshot,12.13,,,,False
+OR,Oregon,2024 annual starter snapshot,14.09,,,,False
+PA,Pennsylvania,2024 annual starter snapshot,18.1,,,,False
+RI,Rhode Island,2024 annual starter snapshot,28.48,,,,False
+SC,South Carolina,2024 annual starter snapshot,14.28,,,,False
+SD,South Dakota,2024 annual starter snapshot,12.55,,,,False
+TN,Tennessee,2024 annual starter snapshot,12.38,,,,False
+TX,Texas,2024 annual starter snapshot,14.92,,,,False
+UT,Utah,2024 annual starter snapshot,11.31,,,,False
+VT,Vermont,2024 annual starter snapshot,22.23,,,,False
+VA,Virginia,2024 annual starter snapshot,14.01,,,,False
+WA,Washington,2024 annual starter snapshot,11.36,,,,False
+WV,West Virginia,2024 annual starter snapshot,14.26,,,,False
+WI,Wisconsin,2024 annual starter snapshot,17.01,,,,False
+WY,Wyoming,2024 annual starter snapshot,12.18,,,,False

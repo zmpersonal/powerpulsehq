@@ -1,0 +1,766 @@
+device_slug,device,category,annual_kwh,scenario,state_code,state,period,rate_cents_kwh,annual_cost_usd,monthly_cost_usd
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AL,Alabama,2024 annual starter snapshot,15.25,267.64,22.3
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AK,Alaska,2024 annual starter snapshot,24.91,437.17,36.43
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AZ,Arizona,2024 annual starter snapshot,14.78,259.39,21.62
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AR,Arkansas,2024 annual starter snapshot,12.32,216.22,18.02
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CA,California,2024 annual starter snapshot,31.87,559.32,46.61
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CO,Colorado,2024 annual starter snapshot,14.82,260.09,21.67
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CT,Connecticut,2024 annual starter snapshot,29.15,511.58,42.63
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DE,Delaware,2024 annual starter snapshot,16.48,289.22,24.1
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DC,District of Columbia,2024 annual starter snapshot,18.15,318.53,26.54
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,FL,Florida,2024 annual starter snapshot,15.09,264.83,22.07
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,GA,Georgia,2024 annual starter snapshot,13.8,242.19,20.18
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,HI,Hawaii,2024 annual starter snapshot,42.55,746.75,62.23
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ID,Idaho,2024 annual starter snapshot,11.24,197.26,16.44
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IL,Illinois,2024 annual starter snapshot,15.71,275.71,22.98
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IN,Indiana,2024 annual starter snapshot,14.41,252.9,21.07
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IA,Iowa,2024 annual starter snapshot,13.3,233.42,19.45
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KS,Kansas,2024 annual starter snapshot,13.38,234.82,19.57
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KY,Kentucky,2024 annual starter snapshot,12.81,224.82,18.73
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,LA,Louisiana,2024 annual starter snapshot,11.65,204.46,17.04
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ME,Maine,2024 annual starter snapshot,23.43,411.2,34.27
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MD,Maryland,2024 annual starter snapshot,17.84,313.09,26.09
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MA,Massachusetts,2024 annual starter snapshot,29.35,515.09,42.92
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MI,Michigan,2024 annual starter snapshot,19.06,334.5,27.88
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MN,Minnesota,2024 annual starter snapshot,15.34,269.22,22.43
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MS,Mississippi,2024 annual starter snapshot,13.98,245.35,20.45
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MO,Missouri,2024 annual starter snapshot,12.79,224.46,18.71
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MT,Montana,2024 annual starter snapshot,12.49,219.2,18.27
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NE,Nebraska,2024 annual starter snapshot,11.69,205.16,17.1
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NV,Nevada,2024 annual starter snapshot,15.07,264.48,22.04
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NH,New Hampshire,2024 annual starter snapshot,23.8,417.69,34.81
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NJ,New Jersey,2024 annual starter snapshot,19.49,342.05,28.5
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NM,New Mexico,2024 annual starter snapshot,14.49,254.3,21.19
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NY,New York,2024 annual starter snapshot,24.02,421.55,35.13
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NC,North Carolina,2024 annual starter snapshot,13.03,228.68,19.06
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ND,North Dakota,2024 annual starter snapshot,11.38,199.72,16.64
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OH,Ohio,2024 annual starter snapshot,15.12,265.36,22.11
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OK,Oklahoma,2024 annual starter snapshot,12.13,212.88,17.74
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OR,Oregon,2024 annual starter snapshot,14.09,247.28,20.61
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,PA,Pennsylvania,2024 annual starter snapshot,18.1,317.66,26.47
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,RI,Rhode Island,2024 annual starter snapshot,28.48,499.82,41.65
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SC,South Carolina,2024 annual starter snapshot,14.28,250.61,20.88
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SD,South Dakota,2024 annual starter snapshot,12.55,220.25,18.35
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TN,Tennessee,2024 annual starter snapshot,12.38,217.27,18.11
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TX,Texas,2024 annual starter snapshot,14.92,261.85,21.82
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,UT,Utah,2024 annual starter snapshot,11.31,198.49,16.54
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VT,Vermont,2024 annual starter snapshot,22.23,390.14,32.51
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VA,Virginia,2024 annual starter snapshot,14.01,245.88,20.49
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WA,Washington,2024 annual starter snapshot,11.36,199.37,16.61
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WV,West Virginia,2024 annual starter snapshot,14.26,250.26,20.86
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WI,Wisconsin,2024 annual starter snapshot,17.01,298.53,24.88
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WY,Wyoming,2024 annual starter snapshot,12.18,213.76,17.81
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AL,Alabama,2024 annual starter snapshot,15.25,32.18,2.68
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AK,Alaska,2024 annual starter snapshot,24.91,52.56,4.38
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AZ,Arizona,2024 annual starter snapshot,14.78,31.19,2.6
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AR,Arkansas,2024 annual starter snapshot,12.32,26.0,2.17
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CA,California,2024 annual starter snapshot,31.87,67.25,5.6
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CO,Colorado,2024 annual starter snapshot,14.82,31.27,2.61
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CT,Connecticut,2024 annual starter snapshot,29.15,61.51,5.13
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DE,Delaware,2024 annual starter snapshot,16.48,34.77,2.9
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DC,District of Columbia,2024 annual starter snapshot,18.15,38.3,3.19
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,FL,Florida,2024 annual starter snapshot,15.09,31.84,2.65
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,GA,Georgia,2024 annual starter snapshot,13.8,29.12,2.43
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,HI,Hawaii,2024 annual starter snapshot,42.55,89.78,7.48
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ID,Idaho,2024 annual starter snapshot,11.24,23.72,1.98
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IL,Illinois,2024 annual starter snapshot,15.71,33.15,2.76
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IN,Indiana,2024 annual starter snapshot,14.41,30.41,2.53
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IA,Iowa,2024 annual starter snapshot,13.3,28.06,2.34
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KS,Kansas,2024 annual starter snapshot,13.38,28.23,2.35
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KY,Kentucky,2024 annual starter snapshot,12.81,27.03,2.25
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,LA,Louisiana,2024 annual starter snapshot,11.65,24.58,2.05
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ME,Maine,2024 annual starter snapshot,23.43,49.44,4.12
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MD,Maryland,2024 annual starter snapshot,17.84,37.64,3.14
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MA,Massachusetts,2024 annual starter snapshot,29.35,61.93,5.16
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MI,Michigan,2024 annual starter snapshot,19.06,40.22,3.35
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MN,Minnesota,2024 annual starter snapshot,15.34,32.37,2.7
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MS,Mississippi,2024 annual starter snapshot,13.98,29.5,2.46
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MO,Missouri,2024 annual starter snapshot,12.79,26.99,2.25
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MT,Montana,2024 annual starter snapshot,12.49,26.35,2.2
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NE,Nebraska,2024 annual starter snapshot,11.69,24.67,2.06
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NV,Nevada,2024 annual starter snapshot,15.07,31.8,2.65
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NH,New Hampshire,2024 annual starter snapshot,23.8,50.22,4.18
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NJ,New Jersey,2024 annual starter snapshot,19.49,41.12,3.43
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NM,New Mexico,2024 annual starter snapshot,14.49,30.57,2.55
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NY,New York,2024 annual starter snapshot,24.02,50.68,4.22
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NC,North Carolina,2024 annual starter snapshot,13.03,27.49,2.29
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ND,North Dakota,2024 annual starter snapshot,11.38,24.01,2.0
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OH,Ohio,2024 annual starter snapshot,15.12,31.9,2.66
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OK,Oklahoma,2024 annual starter snapshot,12.13,25.59,2.13
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OR,Oregon,2024 annual starter snapshot,14.09,29.73,2.48
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,PA,Pennsylvania,2024 annual starter snapshot,18.1,38.19,3.18
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,RI,Rhode Island,2024 annual starter snapshot,28.48,60.09,5.01
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SC,South Carolina,2024 annual starter snapshot,14.28,30.13,2.51
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SD,South Dakota,2024 annual starter snapshot,12.55,26.48,2.21
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TN,Tennessee,2024 annual starter snapshot,12.38,26.12,2.18
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TX,Texas,2024 annual starter snapshot,14.92,31.48,2.62
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,UT,Utah,2024 annual starter snapshot,11.31,23.86,1.99
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VT,Vermont,2024 annual starter snapshot,22.23,46.91,3.91
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VA,Virginia,2024 annual starter snapshot,14.01,29.56,2.46
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WA,Washington,2024 annual starter snapshot,11.36,23.97,2.0
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WV,West Virginia,2024 annual starter snapshot,14.26,30.09,2.51
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WI,Wisconsin,2024 annual starter snapshot,17.01,35.89,2.99
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WY,Wyoming,2024 annual starter snapshot,12.18,25.7,2.14
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AL,Alabama,2024 annual starter snapshot,15.25,439.2,36.6
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AK,Alaska,2024 annual starter snapshot,24.91,717.41,59.78
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AZ,Arizona,2024 annual starter snapshot,14.78,425.66,35.47
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AR,Arkansas,2024 annual starter snapshot,12.32,354.82,29.57
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CA,California,2024 annual starter snapshot,31.87,917.86,76.49
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CO,Colorado,2024 annual starter snapshot,14.82,426.82,35.57
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CT,Connecticut,2024 annual starter snapshot,29.15,839.52,69.96
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DE,Delaware,2024 annual starter snapshot,16.48,474.62,39.55
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DC,District of Columbia,2024 annual starter snapshot,18.15,522.72,43.56
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,FL,Florida,2024 annual starter snapshot,15.09,434.59,36.22
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,GA,Georgia,2024 annual starter snapshot,13.8,397.44,33.12
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,HI,Hawaii,2024 annual starter snapshot,42.55,1225.44,102.12
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ID,Idaho,2024 annual starter snapshot,11.24,323.71,26.98
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IL,Illinois,2024 annual starter snapshot,15.71,452.45,37.7
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IN,Indiana,2024 annual starter snapshot,14.41,415.01,34.58
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IA,Iowa,2024 annual starter snapshot,13.3,383.04,31.92
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KS,Kansas,2024 annual starter snapshot,13.38,385.34,32.11
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KY,Kentucky,2024 annual starter snapshot,12.81,368.93,30.74
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,LA,Louisiana,2024 annual starter snapshot,11.65,335.52,27.96
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ME,Maine,2024 annual starter snapshot,23.43,674.78,56.23
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MD,Maryland,2024 annual starter snapshot,17.84,513.79,42.82
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MA,Massachusetts,2024 annual starter snapshot,29.35,845.28,70.44
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MI,Michigan,2024 annual starter snapshot,19.06,548.93,45.74
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MN,Minnesota,2024 annual starter snapshot,15.34,441.79,36.82
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MS,Mississippi,2024 annual starter snapshot,13.98,402.62,33.55
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MO,Missouri,2024 annual starter snapshot,12.79,368.35,30.7
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MT,Montana,2024 annual starter snapshot,12.49,359.71,29.98
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NE,Nebraska,2024 annual starter snapshot,11.69,336.67,28.06
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NV,Nevada,2024 annual starter snapshot,15.07,434.02,36.17
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NH,New Hampshire,2024 annual starter snapshot,23.8,685.44,57.12
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NJ,New Jersey,2024 annual starter snapshot,19.49,561.31,46.78
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NM,New Mexico,2024 annual starter snapshot,14.49,417.31,34.78
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NY,New York,2024 annual starter snapshot,24.02,691.78,57.65
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NC,North Carolina,2024 annual starter snapshot,13.03,375.26,31.27
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ND,North Dakota,2024 annual starter snapshot,11.38,327.74,27.31
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OH,Ohio,2024 annual starter snapshot,15.12,435.46,36.29
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OK,Oklahoma,2024 annual starter snapshot,12.13,349.34,29.11
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OR,Oregon,2024 annual starter snapshot,14.09,405.79,33.82
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,PA,Pennsylvania,2024 annual starter snapshot,18.1,521.28,43.44
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,RI,Rhode Island,2024 annual starter snapshot,28.48,820.22,68.35
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SC,South Carolina,2024 annual starter snapshot,14.28,411.26,34.27
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SD,South Dakota,2024 annual starter snapshot,12.55,361.44,30.12
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TN,Tennessee,2024 annual starter snapshot,12.38,356.54,29.71
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TX,Texas,2024 annual starter snapshot,14.92,429.7,35.81
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,UT,Utah,2024 annual starter snapshot,11.31,325.73,27.14
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VT,Vermont,2024 annual starter snapshot,22.23,640.22,53.35
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VA,Virginia,2024 annual starter snapshot,14.01,403.49,33.62
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WA,Washington,2024 annual starter snapshot,11.36,327.17,27.26
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WV,West Virginia,2024 annual starter snapshot,14.26,410.69,34.22
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WI,Wisconsin,2024 annual starter snapshot,17.01,489.89,40.82
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WY,Wyoming,2024 annual starter snapshot,12.18,350.78,29.23
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AL,Alabama,2024 annual starter snapshot,15.25,512.4,42.7
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AK,Alaska,2024 annual starter snapshot,24.91,836.98,69.75
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AZ,Arizona,2024 annual starter snapshot,14.78,496.61,41.38
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AR,Arkansas,2024 annual starter snapshot,12.32,413.95,34.5
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CA,California,2024 annual starter snapshot,31.87,1070.83,89.24
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CO,Colorado,2024 annual starter snapshot,14.82,497.95,41.5
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CT,Connecticut,2024 annual starter snapshot,29.15,979.44,81.62
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DE,Delaware,2024 annual starter snapshot,16.48,553.73,46.14
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DC,District of Columbia,2024 annual starter snapshot,18.15,609.84,50.82
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,FL,Florida,2024 annual starter snapshot,15.09,507.02,42.25
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,GA,Georgia,2024 annual starter snapshot,13.8,463.68,38.64
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,HI,Hawaii,2024 annual starter snapshot,42.55,1429.68,119.14
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ID,Idaho,2024 annual starter snapshot,11.24,377.66,31.47
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IL,Illinois,2024 annual starter snapshot,15.71,527.86,43.99
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IN,Indiana,2024 annual starter snapshot,14.41,484.18,40.35
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IA,Iowa,2024 annual starter snapshot,13.3,446.88,37.24
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KS,Kansas,2024 annual starter snapshot,13.38,449.57,37.46
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KY,Kentucky,2024 annual starter snapshot,12.81,430.42,35.87
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,LA,Louisiana,2024 annual starter snapshot,11.65,391.44,32.62
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ME,Maine,2024 annual starter snapshot,23.43,787.25,65.6
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MD,Maryland,2024 annual starter snapshot,17.84,599.42,49.95
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MA,Massachusetts,2024 annual starter snapshot,29.35,986.16,82.18
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MI,Michigan,2024 annual starter snapshot,19.06,640.42,53.37
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MN,Minnesota,2024 annual starter snapshot,15.34,515.42,42.95
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MS,Mississippi,2024 annual starter snapshot,13.98,469.73,39.14
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MO,Missouri,2024 annual starter snapshot,12.79,429.74,35.81
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MT,Montana,2024 annual starter snapshot,12.49,419.66,34.97
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NE,Nebraska,2024 annual starter snapshot,11.69,392.78,32.73
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NV,Nevada,2024 annual starter snapshot,15.07,506.35,42.2
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NH,New Hampshire,2024 annual starter snapshot,23.8,799.68,66.64
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NJ,New Jersey,2024 annual starter snapshot,19.49,654.86,54.57
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NM,New Mexico,2024 annual starter snapshot,14.49,486.86,40.57
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NY,New York,2024 annual starter snapshot,24.02,807.07,67.26
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NC,North Carolina,2024 annual starter snapshot,13.03,437.81,36.48
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ND,North Dakota,2024 annual starter snapshot,11.38,382.37,31.86
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OH,Ohio,2024 annual starter snapshot,15.12,508.03,42.34
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OK,Oklahoma,2024 annual starter snapshot,12.13,407.57,33.96
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OR,Oregon,2024 annual starter snapshot,14.09,473.42,39.45
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,PA,Pennsylvania,2024 annual starter snapshot,18.1,608.16,50.68
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,RI,Rhode Island,2024 annual starter snapshot,28.48,956.93,79.74
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SC,South Carolina,2024 annual starter snapshot,14.28,479.81,39.98
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SD,South Dakota,2024 annual starter snapshot,12.55,421.68,35.14
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TN,Tennessee,2024 annual starter snapshot,12.38,415.97,34.66
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TX,Texas,2024 annual starter snapshot,14.92,501.31,41.78
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,UT,Utah,2024 annual starter snapshot,11.31,380.02,31.67
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VT,Vermont,2024 annual starter snapshot,22.23,746.93,62.24
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VA,Virginia,2024 annual starter snapshot,14.01,470.74,39.23
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WA,Washington,2024 annual starter snapshot,11.36,381.7,31.81
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WV,West Virginia,2024 annual starter snapshot,14.26,479.14,39.93
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WI,Wisconsin,2024 annual starter snapshot,17.01,571.54,47.63
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WY,Wyoming,2024 annual starter snapshot,12.18,409.25,34.1
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2024 annual starter snapshot,15.25,549.0,45.75
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2024 annual starter snapshot,24.91,896.76,74.73
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2024 annual starter snapshot,14.78,532.08,44.34
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2024 annual starter snapshot,12.32,443.52,36.96
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CA,California,2024 annual starter snapshot,31.87,1147.32,95.61
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2024 annual starter snapshot,14.82,533.52,44.46
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2024 annual starter snapshot,29.15,1049.4,87.45
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2024 annual starter snapshot,16.48,593.28,49.44
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2024 annual starter snapshot,18.15,653.4,54.45
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,FL,Florida,2024 annual starter snapshot,15.09,543.24,45.27
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2024 annual starter snapshot,13.8,496.8,41.4
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2024 annual starter snapshot,42.55,1531.8,127.65
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2024 annual starter snapshot,11.24,404.64,33.72
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2024 annual starter snapshot,15.71,565.56,47.13
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2024 annual starter snapshot,14.41,518.76,43.23
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2024 annual starter snapshot,13.3,478.8,39.9
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2024 annual starter snapshot,13.38,481.68,40.14
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2024 annual starter snapshot,12.81,461.16,38.43
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2024 annual starter snapshot,11.65,419.4,34.95
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ME,Maine,2024 annual starter snapshot,23.43,843.48,70.29
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2024 annual starter snapshot,17.84,642.24,53.52
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2024 annual starter snapshot,29.35,1056.6,88.05
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2024 annual starter snapshot,19.06,686.16,57.18
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2024 annual starter snapshot,15.34,552.24,46.02
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2024 annual starter snapshot,13.98,503.28,41.94
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2024 annual starter snapshot,12.79,460.44,38.37
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MT,Montana,2024 annual starter snapshot,12.49,449.64,37.47
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2024 annual starter snapshot,11.69,420.84,35.07
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2024 annual starter snapshot,15.07,542.52,45.21
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2024 annual starter snapshot,23.8,856.8,71.4
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2024 annual starter snapshot,19.49,701.64,58.47
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2024 annual starter snapshot,14.49,521.64,43.47
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NY,New York,2024 annual starter snapshot,24.02,864.72,72.06
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2024 annual starter snapshot,13.03,469.08,39.09
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2024 annual starter snapshot,11.38,409.68,34.14
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2024 annual starter snapshot,15.12,544.32,45.36
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2024 annual starter snapshot,12.13,436.68,36.39
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2024 annual starter snapshot,14.09,507.24,42.27
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2024 annual starter snapshot,18.1,651.6,54.3
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2024 annual starter snapshot,28.48,1025.28,85.44
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2024 annual starter snapshot,14.28,514.08,42.84
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2024 annual starter snapshot,12.55,451.8,37.65
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2024 annual starter snapshot,12.38,445.68,37.14
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TX,Texas,2024 annual starter snapshot,14.92,537.12,44.76
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,UT,Utah,2024 annual starter snapshot,11.31,407.16,33.93
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2024 annual starter snapshot,22.23,800.28,66.69
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2024 annual starter snapshot,14.01,504.36,42.03
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WA,Washington,2024 annual starter snapshot,11.36,408.96,34.08
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2024 annual starter snapshot,14.26,513.36,42.78
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2024 annual starter snapshot,17.01,612.36,51.03
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2024 annual starter snapshot,12.18,438.48,36.54
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AL,Alabama,2024 annual starter snapshot,15.25,333.97,27.83
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AK,Alaska,2024 annual starter snapshot,24.91,545.53,45.46
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AZ,Arizona,2024 annual starter snapshot,14.78,323.68,26.97
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AR,Arkansas,2024 annual starter snapshot,12.32,269.81,22.48
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CA,California,2024 annual starter snapshot,31.87,697.95,58.16
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CO,Colorado,2024 annual starter snapshot,14.82,324.56,27.05
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CT,Connecticut,2024 annual starter snapshot,29.15,638.38,53.2
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DE,Delaware,2024 annual starter snapshot,16.48,360.91,30.08
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DC,District of Columbia,2024 annual starter snapshot,18.15,397.49,33.12
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,FL,Florida,2024 annual starter snapshot,15.09,330.47,27.54
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,GA,Georgia,2024 annual starter snapshot,13.8,302.22,25.19
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,HI,Hawaii,2024 annual starter snapshot,42.55,931.85,77.65
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ID,Idaho,2024 annual starter snapshot,11.24,246.16,20.51
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IL,Illinois,2024 annual starter snapshot,15.71,344.05,28.67
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IN,Indiana,2024 annual starter snapshot,14.41,315.58,26.3
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IA,Iowa,2024 annual starter snapshot,13.3,291.27,24.27
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KS,Kansas,2024 annual starter snapshot,13.38,293.02,24.42
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KY,Kentucky,2024 annual starter snapshot,12.81,280.54,23.38
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,LA,Louisiana,2024 annual starter snapshot,11.65,255.14,21.26
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ME,Maine,2024 annual starter snapshot,23.43,513.12,42.76
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MD,Maryland,2024 annual starter snapshot,17.84,390.7,32.56
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MA,Massachusetts,2024 annual starter snapshot,29.35,642.77,53.56
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MI,Michigan,2024 annual starter snapshot,19.06,417.41,34.78
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MN,Minnesota,2024 annual starter snapshot,15.34,335.95,28.0
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MS,Mississippi,2024 annual starter snapshot,13.98,306.16,25.51
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MO,Missouri,2024 annual starter snapshot,12.79,280.1,23.34
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MT,Montana,2024 annual starter snapshot,12.49,273.53,22.79
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NE,Nebraska,2024 annual starter snapshot,11.69,256.01,21.33
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NV,Nevada,2024 annual starter snapshot,15.07,330.03,27.5
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NH,New Hampshire,2024 annual starter snapshot,23.8,521.22,43.44
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NJ,New Jersey,2024 annual starter snapshot,19.49,426.83,35.57
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NM,New Mexico,2024 annual starter snapshot,14.49,317.33,26.44
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NY,New York,2024 annual starter snapshot,24.02,526.04,43.84
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NC,North Carolina,2024 annual starter snapshot,13.03,285.36,23.78
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ND,North Dakota,2024 annual starter snapshot,11.38,249.22,20.77
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OH,Ohio,2024 annual starter snapshot,15.12,331.13,27.59
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OK,Oklahoma,2024 annual starter snapshot,12.13,265.65,22.14
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OR,Oregon,2024 annual starter snapshot,14.09,308.57,25.71
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,PA,Pennsylvania,2024 annual starter snapshot,18.1,396.39,33.03
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,RI,Rhode Island,2024 annual starter snapshot,28.48,623.71,51.98
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SC,South Carolina,2024 annual starter snapshot,14.28,312.73,26.06
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SD,South Dakota,2024 annual starter snapshot,12.55,274.85,22.9
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TN,Tennessee,2024 annual starter snapshot,12.38,271.12,22.59
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TX,Texas,2024 annual starter snapshot,14.92,326.75,27.23
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,UT,Utah,2024 annual starter snapshot,11.31,247.69,20.64
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VT,Vermont,2024 annual starter snapshot,22.23,486.84,40.57
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VA,Virginia,2024 annual starter snapshot,14.01,306.82,25.57
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WA,Washington,2024 annual starter snapshot,11.36,248.78,20.73
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WV,West Virginia,2024 annual starter snapshot,14.26,312.29,26.02
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WI,Wisconsin,2024 annual starter snapshot,17.01,372.52,31.04
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WY,Wyoming,2024 annual starter snapshot,12.18,266.74,22.23
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2024 annual starter snapshot,15.25,329.4,27.45
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2024 annual starter snapshot,24.91,538.06,44.84
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2024 annual starter snapshot,14.78,319.25,26.6
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2024 annual starter snapshot,12.32,266.11,22.18
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CA,California,2024 annual starter snapshot,31.87,688.39,57.37
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2024 annual starter snapshot,14.82,320.11,26.68
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2024 annual starter snapshot,29.15,629.64,52.47
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2024 annual starter snapshot,16.48,355.97,29.66
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2024 annual starter snapshot,18.15,392.04,32.67
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,FL,Florida,2024 annual starter snapshot,15.09,325.94,27.16
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2024 annual starter snapshot,13.8,298.08,24.84
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2024 annual starter snapshot,42.55,919.08,76.59
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2024 annual starter snapshot,11.24,242.78,20.23
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2024 annual starter snapshot,15.71,339.34,28.28
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2024 annual starter snapshot,14.41,311.26,25.94
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2024 annual starter snapshot,13.3,287.28,23.94
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2024 annual starter snapshot,13.38,289.01,24.08
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2024 annual starter snapshot,12.81,276.7,23.06
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2024 annual starter snapshot,11.65,251.64,20.97
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ME,Maine,2024 annual starter snapshot,23.43,506.09,42.17
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2024 annual starter snapshot,17.84,385.34,32.11
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2024 annual starter snapshot,29.35,633.96,52.83
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2024 annual starter snapshot,19.06,411.7,34.31
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2024 annual starter snapshot,15.34,331.34,27.61
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2024 annual starter snapshot,13.98,301.97,25.16
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2024 annual starter snapshot,12.79,276.26,23.02
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MT,Montana,2024 annual starter snapshot,12.49,269.78,22.48
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2024 annual starter snapshot,11.69,252.5,21.04
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2024 annual starter snapshot,15.07,325.51,27.13
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2024 annual starter snapshot,23.8,514.08,42.84
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2024 annual starter snapshot,19.49,420.98,35.08
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2024 annual starter snapshot,14.49,312.98,26.08
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NY,New York,2024 annual starter snapshot,24.02,518.83,43.24
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2024 annual starter snapshot,13.03,281.45,23.45
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2024 annual starter snapshot,11.38,245.81,20.48
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2024 annual starter snapshot,15.12,326.59,27.22
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2024 annual starter snapshot,12.13,262.01,21.83
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2024 annual starter snapshot,14.09,304.34,25.36
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2024 annual starter snapshot,18.1,390.96,32.58
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2024 annual starter snapshot,28.48,615.17,51.26
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2024 annual starter snapshot,14.28,308.45,25.7
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2024 annual starter snapshot,12.55,271.08,22.59
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2024 annual starter snapshot,12.38,267.41,22.28
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TX,Texas,2024 annual starter snapshot,14.92,322.27,26.86
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,UT,Utah,2024 annual starter snapshot,11.31,244.3,20.36
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2024 annual starter snapshot,22.23,480.17,40.01
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2024 annual starter snapshot,14.01,302.62,25.22
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WA,Washington,2024 annual starter snapshot,11.36,245.38,20.45
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2024 annual starter snapshot,14.26,308.02,25.67
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2024 annual starter snapshot,17.01,367.42,30.62
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2024 annual starter snapshot,12.18,263.09,21.92
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AL,Alabama,2024 annual starter snapshot,15.25,686.25,57.19
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AK,Alaska,2024 annual starter snapshot,24.91,1120.95,93.41
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AZ,Arizona,2024 annual starter snapshot,14.78,665.1,55.42
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AR,Arkansas,2024 annual starter snapshot,12.32,554.4,46.2
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CA,California,2024 annual starter snapshot,31.87,1434.15,119.51
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CO,Colorado,2024 annual starter snapshot,14.82,666.9,55.57
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CT,Connecticut,2024 annual starter snapshot,29.15,1311.75,109.31
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DE,Delaware,2024 annual starter snapshot,16.48,741.6,61.8
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DC,District of Columbia,2024 annual starter snapshot,18.15,816.75,68.06
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",FL,Florida,2024 annual starter snapshot,15.09,679.05,56.59
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",GA,Georgia,2024 annual starter snapshot,13.8,621.0,51.75
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",HI,Hawaii,2024 annual starter snapshot,42.55,1914.75,159.56
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ID,Idaho,2024 annual starter snapshot,11.24,505.8,42.15
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IL,Illinois,2024 annual starter snapshot,15.71,706.95,58.91
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IN,Indiana,2024 annual starter snapshot,14.41,648.45,54.04
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IA,Iowa,2024 annual starter snapshot,13.3,598.5,49.88
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KS,Kansas,2024 annual starter snapshot,13.38,602.1,50.18
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KY,Kentucky,2024 annual starter snapshot,12.81,576.45,48.04
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",LA,Louisiana,2024 annual starter snapshot,11.65,524.25,43.69
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ME,Maine,2024 annual starter snapshot,23.43,1054.35,87.86
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MD,Maryland,2024 annual starter snapshot,17.84,802.8,66.9
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MA,Massachusetts,2024 annual starter snapshot,29.35,1320.75,110.06
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MI,Michigan,2024 annual starter snapshot,19.06,857.7,71.47
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MN,Minnesota,2024 annual starter snapshot,15.34,690.3,57.53
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MS,Mississippi,2024 annual starter snapshot,13.98,629.1,52.43
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MO,Missouri,2024 annual starter snapshot,12.79,575.55,47.96
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MT,Montana,2024 annual starter snapshot,12.49,562.05,46.84
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NE,Nebraska,2024 annual starter snapshot,11.69,526.05,43.84
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NV,Nevada,2024 annual starter snapshot,15.07,678.15,56.51
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NH,New Hampshire,2024 annual starter snapshot,23.8,1071.0,89.25
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NJ,New Jersey,2024 annual starter snapshot,19.49,877.05,73.09
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NM,New Mexico,2024 annual starter snapshot,14.49,652.05,54.34
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NY,New York,2024 annual starter snapshot,24.02,1080.9,90.08
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NC,North Carolina,2024 annual starter snapshot,13.03,586.35,48.86
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ND,North Dakota,2024 annual starter snapshot,11.38,512.1,42.68
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OH,Ohio,2024 annual starter snapshot,15.12,680.4,56.7
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OK,Oklahoma,2024 annual starter snapshot,12.13,545.85,45.49
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OR,Oregon,2024 annual starter snapshot,14.09,634.05,52.84
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",PA,Pennsylvania,2024 annual starter snapshot,18.1,814.5,67.88
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",RI,Rhode Island,2024 annual starter snapshot,28.48,1281.6,106.8
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SC,South Carolina,2024 annual starter snapshot,14.28,642.6,53.55
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SD,South Dakota,2024 annual starter snapshot,12.55,564.75,47.06
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TN,Tennessee,2024 annual starter snapshot,12.38,557.1,46.43
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TX,Texas,2024 annual starter snapshot,14.92,671.4,55.95
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",UT,Utah,2024 annual starter snapshot,11.31,508.95,42.41
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VT,Vermont,2024 annual starter snapshot,22.23,1000.35,83.36
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VA,Virginia,2024 annual starter snapshot,14.01,630.45,52.54
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WA,Washington,2024 annual starter snapshot,11.36,511.2,42.6
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WV,West Virginia,2024 annual starter snapshot,14.26,641.7,53.48
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WI,Wisconsin,2024 annual starter snapshot,17.01,765.45,63.79
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WY,Wyoming,2024 annual starter snapshot,12.18,548.1,45.67
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AL,Alabama,2024 annual starter snapshot,15.25,91.5,7.62
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AK,Alaska,2024 annual starter snapshot,24.91,149.46,12.45
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AZ,Arizona,2024 annual starter snapshot,14.78,88.68,7.39
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AR,Arkansas,2024 annual starter snapshot,12.32,73.92,6.16
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CA,California,2024 annual starter snapshot,31.87,191.22,15.94
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CO,Colorado,2024 annual starter snapshot,14.82,88.92,7.41
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CT,Connecticut,2024 annual starter snapshot,29.15,174.9,14.57
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DE,Delaware,2024 annual starter snapshot,16.48,98.88,8.24
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DC,District of Columbia,2024 annual starter snapshot,18.15,108.9,9.07
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,FL,Florida,2024 annual starter snapshot,15.09,90.54,7.55
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,GA,Georgia,2024 annual starter snapshot,13.8,82.8,6.9
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,HI,Hawaii,2024 annual starter snapshot,42.55,255.3,21.27
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ID,Idaho,2024 annual starter snapshot,11.24,67.44,5.62
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IL,Illinois,2024 annual starter snapshot,15.71,94.26,7.86
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IN,Indiana,2024 annual starter snapshot,14.41,86.46,7.21
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IA,Iowa,2024 annual starter snapshot,13.3,79.8,6.65
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KS,Kansas,2024 annual starter snapshot,13.38,80.28,6.69
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KY,Kentucky,2024 annual starter snapshot,12.81,76.86,6.41
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,LA,Louisiana,2024 annual starter snapshot,11.65,69.9,5.83
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ME,Maine,2024 annual starter snapshot,23.43,140.58,11.72
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MD,Maryland,2024 annual starter snapshot,17.84,107.04,8.92
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MA,Massachusetts,2024 annual starter snapshot,29.35,176.1,14.68
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MI,Michigan,2024 annual starter snapshot,19.06,114.36,9.53
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MN,Minnesota,2024 annual starter snapshot,15.34,92.04,7.67
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MS,Mississippi,2024 annual starter snapshot,13.98,83.88,6.99
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MO,Missouri,2024 annual starter snapshot,12.79,76.74,6.39
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MT,Montana,2024 annual starter snapshot,12.49,74.94,6.25
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NE,Nebraska,2024 annual starter snapshot,11.69,70.14,5.84
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NV,Nevada,2024 annual starter snapshot,15.07,90.42,7.54
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NH,New Hampshire,2024 annual starter snapshot,23.8,142.8,11.9
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NJ,New Jersey,2024 annual starter snapshot,19.49,116.94,9.74
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NM,New Mexico,2024 annual starter snapshot,14.49,86.94,7.25
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NY,New York,2024 annual starter snapshot,24.02,144.12,12.01
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NC,North Carolina,2024 annual starter snapshot,13.03,78.18,6.51
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ND,North Dakota,2024 annual starter snapshot,11.38,68.28,5.69
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OH,Ohio,2024 annual starter snapshot,15.12,90.72,7.56
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OK,Oklahoma,2024 annual starter snapshot,12.13,72.78,6.07
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OR,Oregon,2024 annual starter snapshot,14.09,84.54,7.04
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,PA,Pennsylvania,2024 annual starter snapshot,18.1,108.6,9.05
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,RI,Rhode Island,2024 annual starter snapshot,28.48,170.88,14.24
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SC,South Carolina,2024 annual starter snapshot,14.28,85.68,7.14
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SD,South Dakota,2024 annual starter snapshot,12.55,75.3,6.27
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TN,Tennessee,2024 annual starter snapshot,12.38,74.28,6.19
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TX,Texas,2024 annual starter snapshot,14.92,89.52,7.46
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,UT,Utah,2024 annual starter snapshot,11.31,67.86,5.66
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VT,Vermont,2024 annual starter snapshot,22.23,133.38,11.12
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VA,Virginia,2024 annual starter snapshot,14.01,84.06,7.0
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WA,Washington,2024 annual starter snapshot,11.36,68.16,5.68
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WV,West Virginia,2024 annual starter snapshot,14.26,85.56,7.13
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WI,Wisconsin,2024 annual starter snapshot,17.01,102.06,8.51
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WY,Wyoming,2024 annual starter snapshot,12.18,73.08,6.09
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AL,Alabama,2024 annual starter snapshot,15.25,71.37,5.95
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AK,Alaska,2024 annual starter snapshot,24.91,116.58,9.71
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AZ,Arizona,2024 annual starter snapshot,14.78,69.17,5.76
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AR,Arkansas,2024 annual starter snapshot,12.32,57.66,4.8
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CA,California,2024 annual starter snapshot,31.87,149.15,12.43
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CO,Colorado,2024 annual starter snapshot,14.82,69.36,5.78
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CT,Connecticut,2024 annual starter snapshot,29.15,136.42,11.37
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DE,Delaware,2024 annual starter snapshot,16.48,77.13,6.43
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DC,District of Columbia,2024 annual starter snapshot,18.15,84.94,7.08
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,FL,Florida,2024 annual starter snapshot,15.09,70.62,5.89
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,GA,Georgia,2024 annual starter snapshot,13.8,64.58,5.38
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,HI,Hawaii,2024 annual starter snapshot,42.55,199.13,16.59
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ID,Idaho,2024 annual starter snapshot,11.24,52.6,4.38
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IL,Illinois,2024 annual starter snapshot,15.71,73.52,6.13
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IN,Indiana,2024 annual starter snapshot,14.41,67.44,5.62
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IA,Iowa,2024 annual starter snapshot,13.3,62.24,5.19
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KS,Kansas,2024 annual starter snapshot,13.38,62.62,5.22
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KY,Kentucky,2024 annual starter snapshot,12.81,59.95,5.0
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,LA,Louisiana,2024 annual starter snapshot,11.65,54.52,4.54
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ME,Maine,2024 annual starter snapshot,23.43,109.65,9.14
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MD,Maryland,2024 annual starter snapshot,17.84,83.49,6.96
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MA,Massachusetts,2024 annual starter snapshot,29.35,137.36,11.45
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MI,Michigan,2024 annual starter snapshot,19.06,89.2,7.43
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MN,Minnesota,2024 annual starter snapshot,15.34,71.79,5.98
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MS,Mississippi,2024 annual starter snapshot,13.98,65.43,5.45
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MO,Missouri,2024 annual starter snapshot,12.79,59.86,4.99
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MT,Montana,2024 annual starter snapshot,12.49,58.45,4.87
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NE,Nebraska,2024 annual starter snapshot,11.69,54.71,4.56
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NV,Nevada,2024 annual starter snapshot,15.07,70.53,5.88
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NH,New Hampshire,2024 annual starter snapshot,23.8,111.38,9.28
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NJ,New Jersey,2024 annual starter snapshot,19.49,91.21,7.6
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NM,New Mexico,2024 annual starter snapshot,14.49,67.81,5.65
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NY,New York,2024 annual starter snapshot,24.02,112.41,9.37
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NC,North Carolina,2024 annual starter snapshot,13.03,60.98,5.08
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ND,North Dakota,2024 annual starter snapshot,11.38,53.26,4.44
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OH,Ohio,2024 annual starter snapshot,15.12,70.76,5.9
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OK,Oklahoma,2024 annual starter snapshot,12.13,56.77,4.73
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OR,Oregon,2024 annual starter snapshot,14.09,65.94,5.5
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,PA,Pennsylvania,2024 annual starter snapshot,18.1,84.71,7.06
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,RI,Rhode Island,2024 annual starter snapshot,28.48,133.29,11.11
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SC,South Carolina,2024 annual starter snapshot,14.28,66.83,5.57
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SD,South Dakota,2024 annual starter snapshot,12.55,58.73,4.89
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TN,Tennessee,2024 annual starter snapshot,12.38,57.94,4.83
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TX,Texas,2024 annual starter snapshot,14.92,69.83,5.82
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,UT,Utah,2024 annual starter snapshot,11.31,52.93,4.41
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VT,Vermont,2024 annual starter snapshot,22.23,104.04,8.67
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VA,Virginia,2024 annual starter snapshot,14.01,65.57,5.46
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WA,Washington,2024 annual starter snapshot,11.36,53.16,4.43
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WV,West Virginia,2024 annual starter snapshot,14.26,66.74,5.56
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WI,Wisconsin,2024 annual starter snapshot,17.01,79.61,6.63
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WY,Wyoming,2024 annual starter snapshot,12.18,57.0,4.75
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AL,Alabama,2024 annual starter snapshot,15.25,47.58,3.96
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AK,Alaska,2024 annual starter snapshot,24.91,77.72,6.48
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AZ,Arizona,2024 annual starter snapshot,14.78,46.11,3.84
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AR,Arkansas,2024 annual starter snapshot,12.32,38.44,3.2
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CA,California,2024 annual starter snapshot,31.87,99.43,8.29
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CO,Colorado,2024 annual starter snapshot,14.82,46.24,3.85
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CT,Connecticut,2024 annual starter snapshot,29.15,90.95,7.58
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DE,Delaware,2024 annual starter snapshot,16.48,51.42,4.28
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DC,District of Columbia,2024 annual starter snapshot,18.15,56.63,4.72
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,FL,Florida,2024 annual starter snapshot,15.09,47.08,3.92
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,GA,Georgia,2024 annual starter snapshot,13.8,43.06,3.59
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,HI,Hawaii,2024 annual starter snapshot,42.55,132.76,11.06
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ID,Idaho,2024 annual starter snapshot,11.24,35.07,2.92
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IL,Illinois,2024 annual starter snapshot,15.71,49.02,4.08
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IN,Indiana,2024 annual starter snapshot,14.41,44.96,3.75
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IA,Iowa,2024 annual starter snapshot,13.3,41.5,3.46
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KS,Kansas,2024 annual starter snapshot,13.38,41.75,3.48
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KY,Kentucky,2024 annual starter snapshot,12.81,39.97,3.33
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,LA,Louisiana,2024 annual starter snapshot,11.65,36.35,3.03
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ME,Maine,2024 annual starter snapshot,23.43,73.1,6.09
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MD,Maryland,2024 annual starter snapshot,17.84,55.66,4.64
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MA,Massachusetts,2024 annual starter snapshot,29.35,91.57,7.63
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MI,Michigan,2024 annual starter snapshot,19.06,59.47,4.96
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MN,Minnesota,2024 annual starter snapshot,15.34,47.86,3.99
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MS,Mississippi,2024 annual starter snapshot,13.98,43.62,3.63
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MO,Missouri,2024 annual starter snapshot,12.79,39.9,3.33
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MT,Montana,2024 annual starter snapshot,12.49,38.97,3.25
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NE,Nebraska,2024 annual starter snapshot,11.69,36.47,3.04
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NV,Nevada,2024 annual starter snapshot,15.07,47.02,3.92
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NH,New Hampshire,2024 annual starter snapshot,23.8,74.26,6.19
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NJ,New Jersey,2024 annual starter snapshot,19.49,60.81,5.07
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NM,New Mexico,2024 annual starter snapshot,14.49,45.21,3.77
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NY,New York,2024 annual starter snapshot,24.02,74.94,6.25
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NC,North Carolina,2024 annual starter snapshot,13.03,40.65,3.39
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ND,North Dakota,2024 annual starter snapshot,11.38,35.51,2.96
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OH,Ohio,2024 annual starter snapshot,15.12,47.17,3.93
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OK,Oklahoma,2024 annual starter snapshot,12.13,37.85,3.15
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OR,Oregon,2024 annual starter snapshot,14.09,43.96,3.66
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,PA,Pennsylvania,2024 annual starter snapshot,18.1,56.47,4.71
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,RI,Rhode Island,2024 annual starter snapshot,28.48,88.86,7.4
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SC,South Carolina,2024 annual starter snapshot,14.28,44.55,3.71
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SD,South Dakota,2024 annual starter snapshot,12.55,39.16,3.26
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TN,Tennessee,2024 annual starter snapshot,12.38,38.63,3.22
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TX,Texas,2024 annual starter snapshot,14.92,46.55,3.88
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,UT,Utah,2024 annual starter snapshot,11.31,35.29,2.94
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VT,Vermont,2024 annual starter snapshot,22.23,69.36,5.78
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VA,Virginia,2024 annual starter snapshot,14.01,43.71,3.64
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WA,Washington,2024 annual starter snapshot,11.36,35.44,2.95
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WV,West Virginia,2024 annual starter snapshot,14.26,44.49,3.71
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WI,Wisconsin,2024 annual starter snapshot,17.01,53.07,4.42
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WY,Wyoming,2024 annual starter snapshot,12.18,38.0,3.17
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AL,Alabama,2024 annual starter snapshot,15.25,79.3,6.61
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AK,Alaska,2024 annual starter snapshot,24.91,129.53,10.79
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AZ,Arizona,2024 annual starter snapshot,14.78,76.86,6.4
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AR,Arkansas,2024 annual starter snapshot,12.32,64.06,5.34
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CA,California,2024 annual starter snapshot,31.87,165.72,13.81
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CO,Colorado,2024 annual starter snapshot,14.82,77.06,6.42
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CT,Connecticut,2024 annual starter snapshot,29.15,151.58,12.63
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DE,Delaware,2024 annual starter snapshot,16.48,85.7,7.14
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DC,District of Columbia,2024 annual starter snapshot,18.15,94.38,7.86
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,FL,Florida,2024 annual starter snapshot,15.09,78.47,6.54
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,GA,Georgia,2024 annual starter snapshot,13.8,71.76,5.98
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,HI,Hawaii,2024 annual starter snapshot,42.55,221.26,18.44
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ID,Idaho,2024 annual starter snapshot,11.24,58.45,4.87
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IL,Illinois,2024 annual starter snapshot,15.71,81.69,6.81
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IN,Indiana,2024 annual starter snapshot,14.41,74.93,6.24
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IA,Iowa,2024 annual starter snapshot,13.3,69.16,5.76
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KS,Kansas,2024 annual starter snapshot,13.38,69.58,5.8
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KY,Kentucky,2024 annual starter snapshot,12.81,66.61,5.55
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,LA,Louisiana,2024 annual starter snapshot,11.65,60.58,5.05
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ME,Maine,2024 annual starter snapshot,23.43,121.84,10.15
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MD,Maryland,2024 annual starter snapshot,17.84,92.77,7.73
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MA,Massachusetts,2024 annual starter snapshot,29.35,152.62,12.72
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MI,Michigan,2024 annual starter snapshot,19.06,99.11,8.26
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MN,Minnesota,2024 annual starter snapshot,15.34,79.77,6.65
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MS,Mississippi,2024 annual starter snapshot,13.98,72.7,6.06
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MO,Missouri,2024 annual starter snapshot,12.79,66.51,5.54
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MT,Montana,2024 annual starter snapshot,12.49,64.95,5.41
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NE,Nebraska,2024 annual starter snapshot,11.69,60.79,5.07
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NV,Nevada,2024 annual starter snapshot,15.07,78.36,6.53
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NH,New Hampshire,2024 annual starter snapshot,23.8,123.76,10.31
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NJ,New Jersey,2024 annual starter snapshot,19.49,101.35,8.45
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NM,New Mexico,2024 annual starter snapshot,14.49,75.35,6.28
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NY,New York,2024 annual starter snapshot,24.02,124.9,10.41
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NC,North Carolina,2024 annual starter snapshot,13.03,67.76,5.65
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ND,North Dakota,2024 annual starter snapshot,11.38,59.18,4.93
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OH,Ohio,2024 annual starter snapshot,15.12,78.62,6.55
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OK,Oklahoma,2024 annual starter snapshot,12.13,63.08,5.26
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OR,Oregon,2024 annual starter snapshot,14.09,73.27,6.11
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,PA,Pennsylvania,2024 annual starter snapshot,18.1,94.12,7.84
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,RI,Rhode Island,2024 annual starter snapshot,28.48,148.1,12.34
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SC,South Carolina,2024 annual starter snapshot,14.28,74.26,6.19
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SD,South Dakota,2024 annual starter snapshot,12.55,65.26,5.44
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TN,Tennessee,2024 annual starter snapshot,12.38,64.38,5.36
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TX,Texas,2024 annual starter snapshot,14.92,77.58,6.47
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,UT,Utah,2024 annual starter snapshot,11.31,58.81,4.9
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VT,Vermont,2024 annual starter snapshot,22.23,115.6,9.63
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VA,Virginia,2024 annual starter snapshot,14.01,72.85,6.07
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WA,Washington,2024 annual starter snapshot,11.36,59.07,4.92
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WV,West Virginia,2024 annual starter snapshot,14.26,74.15,6.18
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WI,Wisconsin,2024 annual starter snapshot,17.01,88.45,7.37
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WY,Wyoming,2024 annual starter snapshot,12.18,63.34,5.28
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2024 annual starter snapshot,15.25,109.8,9.15
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2024 annual starter snapshot,24.91,179.35,14.95
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2024 annual starter snapshot,14.78,106.42,8.87
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2024 annual starter snapshot,12.32,88.7,7.39
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CA,California,2024 annual starter snapshot,31.87,229.46,19.12
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2024 annual starter snapshot,14.82,106.7,8.89
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2024 annual starter snapshot,29.15,209.88,17.49
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2024 annual starter snapshot,16.48,118.66,9.89
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2024 annual starter snapshot,18.15,130.68,10.89
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,FL,Florida,2024 annual starter snapshot,15.09,108.65,9.05
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2024 annual starter snapshot,13.8,99.36,8.28
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2024 annual starter snapshot,42.55,306.36,25.53
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2024 annual starter snapshot,11.24,80.93,6.74
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2024 annual starter snapshot,15.71,113.11,9.43
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2024 annual starter snapshot,14.41,103.75,8.65
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2024 annual starter snapshot,13.3,95.76,7.98
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2024 annual starter snapshot,13.38,96.34,8.03
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2024 annual starter snapshot,12.81,92.23,7.69
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2024 annual starter snapshot,11.65,83.88,6.99
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ME,Maine,2024 annual starter snapshot,23.43,168.7,14.06
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2024 annual starter snapshot,17.84,128.45,10.7
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2024 annual starter snapshot,29.35,211.32,17.61
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2024 annual starter snapshot,19.06,137.23,11.44
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2024 annual starter snapshot,15.34,110.45,9.2
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2024 annual starter snapshot,13.98,100.66,8.39
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2024 annual starter snapshot,12.79,92.09,7.67
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MT,Montana,2024 annual starter snapshot,12.49,89.93,7.49
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2024 annual starter snapshot,11.69,84.17,7.01
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2024 annual starter snapshot,15.07,108.5,9.04
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2024 annual starter snapshot,23.8,171.36,14.28
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2024 annual starter snapshot,19.49,140.33,11.69
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2024 annual starter snapshot,14.49,104.33,8.69
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NY,New York,2024 annual starter snapshot,24.02,172.94,14.41
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2024 annual starter snapshot,13.03,93.82,7.82
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2024 annual starter snapshot,11.38,81.94,6.83
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2024 annual starter snapshot,15.12,108.86,9.07
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2024 annual starter snapshot,12.13,87.34,7.28
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2024 annual starter snapshot,14.09,101.45,8.45
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2024 annual starter snapshot,18.1,130.32,10.86
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2024 annual starter snapshot,28.48,205.06,17.09
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2024 annual starter snapshot,14.28,102.82,8.57
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2024 annual starter snapshot,12.55,90.36,7.53
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2024 annual starter snapshot,12.38,89.14,7.43
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TX,Texas,2024 annual starter snapshot,14.92,107.42,8.95
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,UT,Utah,2024 annual starter snapshot,11.31,81.43,6.79
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2024 annual starter snapshot,22.23,160.06,13.34
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2024 annual starter snapshot,14.01,100.87,8.41
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WA,Washington,2024 annual starter snapshot,11.36,81.79,6.82
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2024 annual starter snapshot,14.26,102.67,8.56
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2024 annual starter snapshot,17.01,122.47,10.21
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2024 annual starter snapshot,12.18,87.7,7.31
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AL,Alabama,2024 annual starter snapshot,15.25,137.25,11.44
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AK,Alaska,2024 annual starter snapshot,24.91,224.19,18.68
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AZ,Arizona,2024 annual starter snapshot,14.78,133.02,11.08
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AR,Arkansas,2024 annual starter snapshot,12.32,110.88,9.24
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CA,California,2024 annual starter snapshot,31.87,286.83,23.9
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CO,Colorado,2024 annual starter snapshot,14.82,133.38,11.12
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CT,Connecticut,2024 annual starter snapshot,29.15,262.35,21.86
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DE,Delaware,2024 annual starter snapshot,16.48,148.32,12.36
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DC,District of Columbia,2024 annual starter snapshot,18.15,163.35,13.61
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,FL,Florida,2024 annual starter snapshot,15.09,135.81,11.32
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,GA,Georgia,2024 annual starter snapshot,13.8,124.2,10.35
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,HI,Hawaii,2024 annual starter snapshot,42.55,382.95,31.91
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ID,Idaho,2024 annual starter snapshot,11.24,101.16,8.43
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IL,Illinois,2024 annual starter snapshot,15.71,141.39,11.78
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IN,Indiana,2024 annual starter snapshot,14.41,129.69,10.81
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IA,Iowa,2024 annual starter snapshot,13.3,119.7,9.97
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KS,Kansas,2024 annual starter snapshot,13.38,120.42,10.04
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KY,Kentucky,2024 annual starter snapshot,12.81,115.29,9.61
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,LA,Louisiana,2024 annual starter snapshot,11.65,104.85,8.74
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ME,Maine,2024 annual starter snapshot,23.43,210.87,17.57
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MD,Maryland,2024 annual starter snapshot,17.84,160.56,13.38
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MA,Massachusetts,2024 annual starter snapshot,29.35,264.15,22.01
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MI,Michigan,2024 annual starter snapshot,19.06,171.54,14.29
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MN,Minnesota,2024 annual starter snapshot,15.34,138.06,11.51
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MS,Mississippi,2024 annual starter snapshot,13.98,125.82,10.49
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MO,Missouri,2024 annual starter snapshot,12.79,115.11,9.59
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MT,Montana,2024 annual starter snapshot,12.49,112.41,9.37
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NE,Nebraska,2024 annual starter snapshot,11.69,105.21,8.77
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NV,Nevada,2024 annual starter snapshot,15.07,135.63,11.3
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NH,New Hampshire,2024 annual starter snapshot,23.8,214.2,17.85
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NJ,New Jersey,2024 annual starter snapshot,19.49,175.41,14.62
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NM,New Mexico,2024 annual starter snapshot,14.49,130.41,10.87
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NY,New York,2024 annual starter snapshot,24.02,216.18,18.02
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NC,North Carolina,2024 annual starter snapshot,13.03,117.27,9.77
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ND,North Dakota,2024 annual starter snapshot,11.38,102.42,8.54
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OH,Ohio,2024 annual starter snapshot,15.12,136.08,11.34
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OK,Oklahoma,2024 annual starter snapshot,12.13,109.17,9.1
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OR,Oregon,2024 annual starter snapshot,14.09,126.81,10.57
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,PA,Pennsylvania,2024 annual starter snapshot,18.1,162.9,13.58
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,RI,Rhode Island,2024 annual starter snapshot,28.48,256.32,21.36
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SC,South Carolina,2024 annual starter snapshot,14.28,128.52,10.71
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SD,South Dakota,2024 annual starter snapshot,12.55,112.95,9.41
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TN,Tennessee,2024 annual starter snapshot,12.38,111.42,9.29
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TX,Texas,2024 annual starter snapshot,14.92,134.28,11.19
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,UT,Utah,2024 annual starter snapshot,11.31,101.79,8.48
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VT,Vermont,2024 annual starter snapshot,22.23,200.07,16.67
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VA,Virginia,2024 annual starter snapshot,14.01,126.09,10.51
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WA,Washington,2024 annual starter snapshot,11.36,102.24,8.52
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WV,West Virginia,2024 annual starter snapshot,14.26,128.34,10.7
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WI,Wisconsin,2024 annual starter snapshot,17.01,153.09,12.76
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WY,Wyoming,2024 annual starter snapshot,12.18,109.62,9.13
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AL,Alabama,2024 annual starter snapshot,15.25,53.38,4.45
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AK,Alaska,2024 annual starter snapshot,24.91,87.19,7.27
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AZ,Arizona,2024 annual starter snapshot,14.78,51.73,4.31
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AR,Arkansas,2024 annual starter snapshot,12.32,43.12,3.59
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CA,California,2024 annual starter snapshot,31.87,111.54,9.3
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CO,Colorado,2024 annual starter snapshot,14.82,51.87,4.32
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CT,Connecticut,2024 annual starter snapshot,29.15,102.02,8.5
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DE,Delaware,2024 annual starter snapshot,16.48,57.68,4.81
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DC,District of Columbia,2024 annual starter snapshot,18.15,63.52,5.29
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,FL,Florida,2024 annual starter snapshot,15.09,52.82,4.4
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,GA,Georgia,2024 annual starter snapshot,13.8,48.3,4.03
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,HI,Hawaii,2024 annual starter snapshot,42.55,148.92,12.41
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ID,Idaho,2024 annual starter snapshot,11.24,39.34,3.28
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IL,Illinois,2024 annual starter snapshot,15.71,54.99,4.58
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IN,Indiana,2024 annual starter snapshot,14.41,50.44,4.2
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IA,Iowa,2024 annual starter snapshot,13.3,46.55,3.88
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KS,Kansas,2024 annual starter snapshot,13.38,46.83,3.9
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KY,Kentucky,2024 annual starter snapshot,12.81,44.83,3.74
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,LA,Louisiana,2024 annual starter snapshot,11.65,40.78,3.4
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ME,Maine,2024 annual starter snapshot,23.43,82.01,6.83
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MD,Maryland,2024 annual starter snapshot,17.84,62.44,5.2
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MA,Massachusetts,2024 annual starter snapshot,29.35,102.73,8.56
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MI,Michigan,2024 annual starter snapshot,19.06,66.71,5.56
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MN,Minnesota,2024 annual starter snapshot,15.34,53.69,4.47
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MS,Mississippi,2024 annual starter snapshot,13.98,48.93,4.08
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MO,Missouri,2024 annual starter snapshot,12.79,44.76,3.73
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MT,Montana,2024 annual starter snapshot,12.49,43.71,3.64
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NE,Nebraska,2024 annual starter snapshot,11.69,40.91,3.41
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NV,Nevada,2024 annual starter snapshot,15.07,52.74,4.4
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NH,New Hampshire,2024 annual starter snapshot,23.8,83.3,6.94
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NJ,New Jersey,2024 annual starter snapshot,19.49,68.22,5.68
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NM,New Mexico,2024 annual starter snapshot,14.49,50.72,4.23
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NY,New York,2024 annual starter snapshot,24.02,84.07,7.01
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NC,North Carolina,2024 annual starter snapshot,13.03,45.6,3.8
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ND,North Dakota,2024 annual starter snapshot,11.38,39.83,3.32
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OH,Ohio,2024 annual starter snapshot,15.12,52.92,4.41
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OK,Oklahoma,2024 annual starter snapshot,12.13,42.45,3.54
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OR,Oregon,2024 annual starter snapshot,14.09,49.31,4.11
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,PA,Pennsylvania,2024 annual starter snapshot,18.1,63.35,5.28
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,RI,Rhode Island,2024 annual starter snapshot,28.48,99.68,8.31
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SC,South Carolina,2024 annual starter snapshot,14.28,49.98,4.17
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SD,South Dakota,2024 annual starter snapshot,12.55,43.92,3.66
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TN,Tennessee,2024 annual starter snapshot,12.38,43.33,3.61
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TX,Texas,2024 annual starter snapshot,14.92,52.22,4.35
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,UT,Utah,2024 annual starter snapshot,11.31,39.59,3.3
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VT,Vermont,2024 annual starter snapshot,22.23,77.8,6.48
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VA,Virginia,2024 annual starter snapshot,14.01,49.04,4.09
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WA,Washington,2024 annual starter snapshot,11.36,39.76,3.31
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WV,West Virginia,2024 annual starter snapshot,14.26,49.91,4.16
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WI,Wisconsin,2024 annual starter snapshot,17.01,59.54,4.96
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WY,Wyoming,2024 annual starter snapshot,12.18,42.63,3.55

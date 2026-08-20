@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "traditional-sauna",
+    "name": "Traditional Sauna",
+    "category": "Home wellness",
+    "annual_kwh": 1755,
+    "scenario": "9 kW heater \u00d7 1.25 hours \u00d7 3 sessions/week",
+    "short": "A 9 kW electric sauna used for three 75-minute sessions each week."
+  },
+  {
+    "slug": "infrared-sauna",
+    "name": "Infrared Sauna",
+    "category": "Home wellness",
+    "annual_kwh": 211,
+    "scenario": "1.8 kW \u00d7 45 minutes \u00d7 3 sessions/week",
+    "short": "A 1.8 kW infrared sauna used for three 45-minute sessions each week."
+  },
+  {
+    "slug": "ev-charging",
+    "name": "EV Charging",
+    "category": "Transportation",
+    "annual_kwh": 2880,
+    "scenario": "60 kWh charge \u00d7 4 full-equivalent charges/month",
+    "short": "A standardized 60 kWh full-equivalent charge four times per month."
+  },
+  {
+    "slug": "central-air",
+    "name": "Central Air Conditioning",
+    "category": "HVAC",
+    "annual_kwh": 3360,
+    "scenario": "3.5 kW \u00d7 8 hours/day \u00d7 120 days/year",
+    "short": "A 3.5 kW central AC operating eight hours on 120 cooling days."
+  },
+  {
+    "slug": "heat-pump",
+    "name": "Heat Pump",
+    "category": "HVAC",
+    "annual_kwh": 3600,
+    "scenario": "2.5 kW \u00d7 8 hours/day \u00d7 180 days/year",
+    "short": "A 2.5 kW heat pump operating eight hours on 180 days."
+  },
+  {
+    "slug": "hot-tub",
+    "name": "Hot Tub",
+    "category": "Home wellness",
+    "annual_kwh": 2190,
+    "scenario": "6 kWh/day average standardized consumption",
+    "short": "A standardized hot tub consuming an average of 6 kWh per day."
+  },
+  {
+    "slug": "pool-pump",
+    "name": "Pool Pump",
+    "category": "Pool",
+    "annual_kwh": 2160,
+    "scenario": "1.5 kW \u00d7 8 hours/day \u00d7 180 days/year",
+    "short": "A 1.5 kW pump operating eight hours on 180 days."
+  },
+  {
+    "slug": "electric-water-heater",
+    "name": "Electric Water Heater",
+    "category": "Appliance",
+    "annual_kwh": 4500,
+    "scenario": "4,500 kWh/year standardized household scenario",
+    "short": "A standardized electric water-heating load of 4,500 kWh per year."
+  },
+  {
+    "slug": "refrigerator",
+    "name": "Refrigerator",
+    "category": "Appliance",
+    "annual_kwh": 600,
+    "scenario": "600 kWh/year standardized refrigerator",
+    "short": "A refrigerator consuming 600 kWh per year."
+  },
+  {
+    "slug": "clothes-dryer",
+    "name": "Electric Clothes Dryer",
+    "category": "Appliance",
+    "annual_kwh": 468,
+    "scenario": "3 kW \u00d7 45 minutes \u00d7 4 loads/week",
+    "short": "A 3 kW electric dryer used for four 45-minute loads per week."
+  },
+  {
+    "slug": "dishwasher",
+    "name": "Dishwasher",
+    "category": "Appliance",
+    "annual_kwh": 312,
+    "scenario": "1.2 kW \u00d7 1 hour \u00d7 5 cycles/week",
+    "short": "A 1.2 kW dishwasher used five times per week."
+  },
+  {
+    "slug": "electric-oven",
+    "name": "Electric Oven",
+    "category": "Appliance",
+    "annual_kwh": 520,
+    "scenario": "2.5 kW \u00d7 1 hour \u00d7 4 uses/week",
+    "short": "A 2.5 kW oven used four hours per week."
+  },
+  {
+    "slug": "dehumidifier",
+    "name": "Dehumidifier",
+    "category": "Air quality",
+    "annual_kwh": 720,
+    "scenario": "0.5 kW \u00d7 8 hours/day \u00d7 180 days/year",
+    "short": "A 500 W dehumidifier operating eight hours on 180 days."
+  },
+  {
+    "slug": "space-heater",
+    "name": "Space Heater",
+    "category": "HVAC",
+    "annual_kwh": 900,
+    "scenario": "1.5 kW \u00d7 5 hours/day \u00d7 120 days/year",
+    "short": "A 1.5 kW space heater operating five hours on 120 days."
+  },
+  {
+    "slug": "chest-freezer",
+    "name": "Chest Freezer",
+    "category": "Appliance",
+    "annual_kwh": 350,
+    "scenario": "350 kWh/year standardized freezer",
+    "short": "A chest freezer consuming 350 kWh per year."
+  }
+]
