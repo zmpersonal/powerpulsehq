@@ -1,766 +1,766 @@
 device_slug,device,category,annual_kwh,scenario,state_code,state,period,rate_cents_kwh,annual_cost_usd,monthly_cost_usd
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AL,Alabama,2026-06,16.4,287.82,23.98
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AK,Alaska,2026-06,28.21,495.09,41.26
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AZ,Arizona,2026-06,15.18,266.41,22.2
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AR,Arkansas,2026-06,14.12,247.81,20.65
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CA,California,2026-06,34.74,609.69,50.81
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CO,Colorado,2026-06,17.13,300.63,25.05
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CT,Connecticut,2026-06,24.32,426.82,35.57
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DE,Delaware,2026-06,19.29,338.54,28.21
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DC,District of Columbia,2026-06,24.39,428.04,35.67
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,FL,Florida,2026-06,15.1,265.0,22.08
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,GA,Georgia,2026-06,16.36,287.12,23.93
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,HI,Hawaii,2026-06,52.72,925.24,77.1
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ID,Idaho,2026-06,14.37,252.19,21.02
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IL,Illinois,2026-06,19.89,349.07,29.09
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IN,Indiana,2026-06,17.51,307.3,25.61
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IA,Iowa,2026-06,15.93,279.57,23.3
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KS,Kansas,2026-06,15.71,275.71,22.98
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KY,Kentucky,2026-06,14.26,250.26,20.86
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,LA,Louisiana,2026-06,13.49,236.75,19.73
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ME,Maine,2026-06,29.59,519.3,43.28
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MD,Maryland,2026-06,21.84,383.29,31.94
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MA,Massachusetts,2026-06,29.61,519.66,43.3
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MI,Michigan,2026-06,22.99,403.47,33.62
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MN,Minnesota,2026-06,17.52,307.48,25.62
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MS,Mississippi,2026-06,14.88,261.14,21.76
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MO,Missouri,2026-06,16.22,284.66,23.72
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MT,Montana,2026-06,15.14,265.71,22.14
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NE,Nebraska,2026-06,13.25,232.54,19.38
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NV,Nevada,2026-06,13.11,230.08,19.17
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NH,New Hampshire,2026-06,27.01,474.03,39.5
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NJ,New Jersey,2026-06,24.95,437.87,36.49
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NM,New Mexico,2026-06,15.06,264.3,22.03
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NY,New York,2026-06,29.49,517.55,43.13
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NC,North Carolina,2026-06,14.74,258.69,21.56
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ND,North Dakota,2026-06,14.12,247.81,20.65
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OH,Ohio,2026-06,19.19,336.78,28.07
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OK,Oklahoma,2026-06,14.33,251.49,20.96
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OR,Oregon,2026-06,16.32,286.42,23.87
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,PA,Pennsylvania,2026-06,21.73,381.36,31.78
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,RI,Rhode Island,2026-06,29.23,512.99,42.75
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SC,South Carolina,2026-06,15.55,272.9,22.74
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SD,South Dakota,2026-06,15.36,269.57,22.46
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TN,Tennessee,2026-06,14.07,246.93,20.58
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TX,Texas,2026-06,15.94,279.75,23.31
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,UT,Utah,2026-06,13.37,234.64,19.55
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VT,Vermont,2026-06,24.44,428.92,35.74
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VA,Virginia,2026-06,17.22,302.21,25.18
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WA,Washington,2026-06,14.91,261.67,21.81
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WV,West Virginia,2026-06,15.45,271.15,22.6
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WI,Wisconsin,2026-06,19.56,343.28,28.61
-traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WY,Wyoming,2026-06,15.24,267.46,22.29
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AL,Alabama,2026-06,16.4,34.6,2.88
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AK,Alaska,2026-06,28.21,59.52,4.96
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AZ,Arizona,2026-06,15.18,32.03,2.67
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AR,Arkansas,2026-06,14.12,29.79,2.48
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CA,California,2026-06,34.74,73.3,6.11
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CO,Colorado,2026-06,17.13,36.14,3.01
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CT,Connecticut,2026-06,24.32,51.32,4.28
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DE,Delaware,2026-06,19.29,40.7,3.39
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DC,District of Columbia,2026-06,24.39,51.46,4.29
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,FL,Florida,2026-06,15.1,31.86,2.66
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,GA,Georgia,2026-06,16.36,34.52,2.88
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,HI,Hawaii,2026-06,52.72,111.24,9.27
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ID,Idaho,2026-06,14.37,30.32,2.53
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IL,Illinois,2026-06,19.89,41.97,3.5
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IN,Indiana,2026-06,17.51,36.95,3.08
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IA,Iowa,2026-06,15.93,33.61,2.8
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KS,Kansas,2026-06,15.71,33.15,2.76
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KY,Kentucky,2026-06,14.26,30.09,2.51
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,LA,Louisiana,2026-06,13.49,28.46,2.37
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ME,Maine,2026-06,29.59,62.43,5.2
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MD,Maryland,2026-06,21.84,46.08,3.84
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MA,Massachusetts,2026-06,29.61,62.48,5.21
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MI,Michigan,2026-06,22.99,48.51,4.04
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MN,Minnesota,2026-06,17.52,36.97,3.08
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MS,Mississippi,2026-06,14.88,31.4,2.62
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MO,Missouri,2026-06,16.22,34.22,2.85
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MT,Montana,2026-06,15.14,31.95,2.66
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NE,Nebraska,2026-06,13.25,27.96,2.33
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NV,Nevada,2026-06,13.11,27.66,2.31
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NH,New Hampshire,2026-06,27.01,56.99,4.75
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NJ,New Jersey,2026-06,24.95,52.64,4.39
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NM,New Mexico,2026-06,15.06,31.78,2.65
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NY,New York,2026-06,29.49,62.22,5.19
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NC,North Carolina,2026-06,14.74,31.1,2.59
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ND,North Dakota,2026-06,14.12,29.79,2.48
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OH,Ohio,2026-06,19.19,40.49,3.37
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OK,Oklahoma,2026-06,14.33,30.24,2.52
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OR,Oregon,2026-06,16.32,34.44,2.87
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,PA,Pennsylvania,2026-06,21.73,45.85,3.82
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,RI,Rhode Island,2026-06,29.23,61.68,5.14
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SC,South Carolina,2026-06,15.55,32.81,2.73
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SD,South Dakota,2026-06,15.36,32.41,2.7
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TN,Tennessee,2026-06,14.07,29.69,2.47
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TX,Texas,2026-06,15.94,33.63,2.8
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,UT,Utah,2026-06,13.37,28.21,2.35
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VT,Vermont,2026-06,24.44,51.57,4.3
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VA,Virginia,2026-06,17.22,36.33,3.03
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WA,Washington,2026-06,14.91,31.46,2.62
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WV,West Virginia,2026-06,15.45,32.6,2.72
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WI,Wisconsin,2026-06,19.56,41.27,3.44
-infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WY,Wyoming,2026-06,15.24,32.16,2.68
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AL,Alabama,2026-06,16.4,472.32,39.36
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AK,Alaska,2026-06,28.21,812.45,67.7
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AZ,Arizona,2026-06,15.18,437.18,36.43
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AR,Arkansas,2026-06,14.12,406.66,33.89
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CA,California,2026-06,34.74,1000.51,83.38
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CO,Colorado,2026-06,17.13,493.34,41.11
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CT,Connecticut,2026-06,24.32,700.42,58.37
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DE,Delaware,2026-06,19.29,555.55,46.3
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DC,District of Columbia,2026-06,24.39,702.43,58.54
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,FL,Florida,2026-06,15.1,434.88,36.24
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,GA,Georgia,2026-06,16.36,471.17,39.26
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,HI,Hawaii,2026-06,52.72,1518.34,126.53
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ID,Idaho,2026-06,14.37,413.86,34.49
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IL,Illinois,2026-06,19.89,572.83,47.74
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IN,Indiana,2026-06,17.51,504.29,42.02
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IA,Iowa,2026-06,15.93,458.78,38.23
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KS,Kansas,2026-06,15.71,452.45,37.7
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KY,Kentucky,2026-06,14.26,410.69,34.22
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,LA,Louisiana,2026-06,13.49,388.51,32.38
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ME,Maine,2026-06,29.59,852.19,71.02
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MD,Maryland,2026-06,21.84,628.99,52.42
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MA,Massachusetts,2026-06,29.61,852.77,71.06
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MI,Michigan,2026-06,22.99,662.11,55.18
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MN,Minnesota,2026-06,17.52,504.58,42.05
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MS,Mississippi,2026-06,14.88,428.54,35.71
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MO,Missouri,2026-06,16.22,467.14,38.93
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MT,Montana,2026-06,15.14,436.03,36.34
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NE,Nebraska,2026-06,13.25,381.6,31.8
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NV,Nevada,2026-06,13.11,377.57,31.46
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NH,New Hampshire,2026-06,27.01,777.89,64.82
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NJ,New Jersey,2026-06,24.95,718.56,59.88
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NM,New Mexico,2026-06,15.06,433.73,36.14
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NY,New York,2026-06,29.49,849.31,70.78
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NC,North Carolina,2026-06,14.74,424.51,35.38
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ND,North Dakota,2026-06,14.12,406.66,33.89
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OH,Ohio,2026-06,19.19,552.67,46.06
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OK,Oklahoma,2026-06,14.33,412.7,34.39
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OR,Oregon,2026-06,16.32,470.02,39.17
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,PA,Pennsylvania,2026-06,21.73,625.82,52.15
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,RI,Rhode Island,2026-06,29.23,841.82,70.15
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SC,South Carolina,2026-06,15.55,447.84,37.32
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SD,South Dakota,2026-06,15.36,442.37,36.86
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TN,Tennessee,2026-06,14.07,405.22,33.77
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TX,Texas,2026-06,15.94,459.07,38.26
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,UT,Utah,2026-06,13.37,385.06,32.09
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VT,Vermont,2026-06,24.44,703.87,58.66
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VA,Virginia,2026-06,17.22,495.94,41.33
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WA,Washington,2026-06,14.91,429.41,35.78
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WV,West Virginia,2026-06,15.45,444.96,37.08
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WI,Wisconsin,2026-06,19.56,563.33,46.94
-ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WY,Wyoming,2026-06,15.24,438.91,36.58
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AL,Alabama,2026-06,16.4,551.04,45.92
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AK,Alaska,2026-06,28.21,947.86,78.99
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AZ,Arizona,2026-06,15.18,510.05,42.5
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AR,Arkansas,2026-06,14.12,474.43,39.54
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CA,California,2026-06,34.74,1167.26,97.27
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CO,Colorado,2026-06,17.13,575.57,47.96
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CT,Connecticut,2026-06,24.32,817.15,68.1
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DE,Delaware,2026-06,19.29,648.14,54.01
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DC,District of Columbia,2026-06,24.39,819.5,68.29
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,FL,Florida,2026-06,15.1,507.36,42.28
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,GA,Georgia,2026-06,16.36,549.7,45.81
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,HI,Hawaii,2026-06,52.72,1771.39,147.62
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ID,Idaho,2026-06,14.37,482.83,40.24
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IL,Illinois,2026-06,19.89,668.3,55.69
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IN,Indiana,2026-06,17.51,588.34,49.03
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IA,Iowa,2026-06,15.93,535.25,44.6
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KS,Kansas,2026-06,15.71,527.86,43.99
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KY,Kentucky,2026-06,14.26,479.14,39.93
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,LA,Louisiana,2026-06,13.49,453.26,37.77
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ME,Maine,2026-06,29.59,994.22,82.85
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MD,Maryland,2026-06,21.84,733.82,61.15
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MA,Massachusetts,2026-06,29.61,994.9,82.91
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MI,Michigan,2026-06,22.99,772.46,64.37
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MN,Minnesota,2026-06,17.52,588.67,49.06
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MS,Mississippi,2026-06,14.88,499.97,41.66
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MO,Missouri,2026-06,16.22,544.99,45.42
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MT,Montana,2026-06,15.14,508.7,42.39
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NE,Nebraska,2026-06,13.25,445.2,37.1
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NV,Nevada,2026-06,13.11,440.5,36.71
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NH,New Hampshire,2026-06,27.01,907.54,75.63
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NJ,New Jersey,2026-06,24.95,838.32,69.86
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NM,New Mexico,2026-06,15.06,506.02,42.17
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NY,New York,2026-06,29.49,990.86,82.57
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NC,North Carolina,2026-06,14.74,495.26,41.27
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ND,North Dakota,2026-06,14.12,474.43,39.54
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OH,Ohio,2026-06,19.19,644.78,53.73
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OK,Oklahoma,2026-06,14.33,481.49,40.12
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OR,Oregon,2026-06,16.32,548.35,45.7
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,PA,Pennsylvania,2026-06,21.73,730.13,60.84
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,RI,Rhode Island,2026-06,29.23,982.13,81.84
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SC,South Carolina,2026-06,15.55,522.48,43.54
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SD,South Dakota,2026-06,15.36,516.1,43.01
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TN,Tennessee,2026-06,14.07,472.75,39.4
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TX,Texas,2026-06,15.94,535.58,44.63
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,UT,Utah,2026-06,13.37,449.23,37.44
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VT,Vermont,2026-06,24.44,821.18,68.43
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VA,Virginia,2026-06,17.22,578.59,48.22
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WA,Washington,2026-06,14.91,500.98,41.75
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WV,West Virginia,2026-06,15.45,519.12,43.26
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WI,Wisconsin,2026-06,19.56,657.22,54.77
-central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WY,Wyoming,2026-06,15.24,512.06,42.67
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-06,16.4,590.4,49.2
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-06,28.21,1015.56,84.63
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-06,15.18,546.48,45.54
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-06,14.12,508.32,42.36
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CA,California,2026-06,34.74,1250.64,104.22
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-06,17.13,616.68,51.39
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-06,24.32,875.52,72.96
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-06,19.29,694.44,57.87
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-06,24.39,878.04,73.17
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-06,15.1,543.6,45.3
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-06,16.36,588.96,49.08
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-06,52.72,1897.92,158.16
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-06,14.37,517.32,43.11
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-06,19.89,716.04,59.67
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-06,17.51,630.36,52.53
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-06,15.93,573.48,47.79
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-06,15.71,565.56,47.13
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-06,14.26,513.36,42.78
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-06,13.49,485.64,40.47
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-06,29.59,1065.24,88.77
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-06,21.84,786.24,65.52
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-06,29.61,1065.96,88.83
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-06,22.99,827.64,68.97
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-06,17.52,630.72,52.56
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-06,14.88,535.68,44.64
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-06,16.22,583.92,48.66
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-06,15.14,545.04,45.42
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-06,13.25,477.0,39.75
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-06,13.11,471.96,39.33
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-06,27.01,972.36,81.03
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-06,24.95,898.2,74.85
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-06,15.06,542.16,45.18
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-06,29.49,1061.64,88.47
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-06,14.74,530.64,44.22
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-06,14.12,508.32,42.36
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-06,19.19,690.84,57.57
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-06,14.33,515.88,42.99
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-06,16.32,587.52,48.96
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-06,21.73,782.28,65.19
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-06,29.23,1052.28,87.69
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-06,15.55,559.8,46.65
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-06,15.36,552.96,46.08
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-06,14.07,506.52,42.21
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-06,15.94,573.84,47.82
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-06,13.37,481.32,40.11
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-06,24.44,879.84,73.32
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-06,17.22,619.92,51.66
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-06,14.91,536.76,44.73
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-06,15.45,556.2,46.35
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-06,19.56,704.16,58.68
-heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-06,15.24,548.64,45.72
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AL,Alabama,2026-06,16.4,359.16,29.93
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AK,Alaska,2026-06,28.21,617.8,51.48
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AZ,Arizona,2026-06,15.18,332.44,27.7
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AR,Arkansas,2026-06,14.12,309.23,25.77
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CA,California,2026-06,34.74,760.81,63.4
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CO,Colorado,2026-06,17.13,375.15,31.26
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CT,Connecticut,2026-06,24.32,532.61,44.38
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DE,Delaware,2026-06,19.29,422.45,35.2
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DC,District of Columbia,2026-06,24.39,534.14,44.51
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,FL,Florida,2026-06,15.1,330.69,27.56
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,GA,Georgia,2026-06,16.36,358.28,29.86
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,HI,Hawaii,2026-06,52.72,1154.57,96.21
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ID,Idaho,2026-06,14.37,314.7,26.23
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IL,Illinois,2026-06,19.89,435.59,36.3
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IN,Indiana,2026-06,17.51,383.47,31.96
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IA,Iowa,2026-06,15.93,348.87,29.07
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KS,Kansas,2026-06,15.71,344.05,28.67
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KY,Kentucky,2026-06,14.26,312.29,26.02
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,LA,Louisiana,2026-06,13.49,295.43,24.62
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ME,Maine,2026-06,29.59,648.02,54.0
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MD,Maryland,2026-06,21.84,478.3,39.86
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MA,Massachusetts,2026-06,29.61,648.46,54.04
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MI,Michigan,2026-06,22.99,503.48,41.96
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MN,Minnesota,2026-06,17.52,383.69,31.97
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MS,Mississippi,2026-06,14.88,325.87,27.16
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MO,Missouri,2026-06,16.22,355.22,29.6
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MT,Montana,2026-06,15.14,331.57,27.63
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NE,Nebraska,2026-06,13.25,290.18,24.18
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NV,Nevada,2026-06,13.11,287.11,23.93
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NH,New Hampshire,2026-06,27.01,591.52,49.29
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NJ,New Jersey,2026-06,24.95,546.4,45.53
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NM,New Mexico,2026-06,15.06,329.81,27.48
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NY,New York,2026-06,29.49,645.83,53.82
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NC,North Carolina,2026-06,14.74,322.81,26.9
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ND,North Dakota,2026-06,14.12,309.23,25.77
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OH,Ohio,2026-06,19.19,420.26,35.02
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OK,Oklahoma,2026-06,14.33,313.83,26.15
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OR,Oregon,2026-06,16.32,357.41,29.78
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,PA,Pennsylvania,2026-06,21.73,475.89,39.66
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,RI,Rhode Island,2026-06,29.23,640.14,53.34
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SC,South Carolina,2026-06,15.55,340.55,28.38
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SD,South Dakota,2026-06,15.36,336.38,28.03
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TN,Tennessee,2026-06,14.07,308.13,25.68
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TX,Texas,2026-06,15.94,349.09,29.09
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,UT,Utah,2026-06,13.37,292.8,24.4
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VT,Vermont,2026-06,24.44,535.24,44.6
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VA,Virginia,2026-06,17.22,377.12,31.43
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WA,Washington,2026-06,14.91,326.53,27.21
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WV,West Virginia,2026-06,15.45,338.36,28.2
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WI,Wisconsin,2026-06,19.56,428.36,35.7
-hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WY,Wyoming,2026-06,15.24,333.76,27.81
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-06,16.4,354.24,29.52
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-06,28.21,609.34,50.78
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-06,15.18,327.89,27.32
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-06,14.12,304.99,25.42
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CA,California,2026-06,34.74,750.38,62.53
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-06,17.13,370.01,30.83
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-06,24.32,525.31,43.78
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-06,19.29,416.66,34.72
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-06,24.39,526.82,43.9
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-06,15.1,326.16,27.18
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-06,16.36,353.38,29.45
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-06,52.72,1138.75,94.9
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-06,14.37,310.39,25.87
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-06,19.89,429.62,35.8
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-06,17.51,378.22,31.52
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-06,15.93,344.09,28.67
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-06,15.71,339.34,28.28
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-06,14.26,308.02,25.67
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-06,13.49,291.38,24.28
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-06,29.59,639.14,53.26
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-06,21.84,471.74,39.31
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-06,29.61,639.58,53.3
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-06,22.99,496.58,41.38
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-06,17.52,378.43,31.54
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-06,14.88,321.41,26.78
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-06,16.22,350.35,29.2
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-06,15.14,327.02,27.25
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-06,13.25,286.2,23.85
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-06,13.11,283.18,23.6
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-06,27.01,583.42,48.62
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-06,24.95,538.92,44.91
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-06,15.06,325.3,27.11
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-06,29.49,636.98,53.08
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-06,14.74,318.38,26.53
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-06,14.12,304.99,25.42
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-06,19.19,414.5,34.54
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-06,14.33,309.53,25.79
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-06,16.32,352.51,29.38
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-06,21.73,469.37,39.11
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-06,29.23,631.37,52.61
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-06,15.55,335.88,27.99
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-06,15.36,331.78,27.65
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-06,14.07,303.91,25.33
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-06,15.94,344.3,28.69
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-06,13.37,288.79,24.07
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-06,24.44,527.9,43.99
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-06,17.22,371.95,31.0
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-06,14.91,322.06,26.84
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-06,15.45,333.72,27.81
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-06,19.56,422.5,35.21
-pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-06,15.24,329.18,27.43
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AL,Alabama,2026-06,16.4,738.0,61.5
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AK,Alaska,2026-06,28.21,1269.45,105.79
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AZ,Arizona,2026-06,15.18,683.1,56.92
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AR,Arkansas,2026-06,14.12,635.4,52.95
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CA,California,2026-06,34.74,1563.3,130.28
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CO,Colorado,2026-06,17.13,770.85,64.24
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CT,Connecticut,2026-06,24.32,1094.4,91.2
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DE,Delaware,2026-06,19.29,868.05,72.34
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DC,District of Columbia,2026-06,24.39,1097.55,91.46
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",FL,Florida,2026-06,15.1,679.5,56.62
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",GA,Georgia,2026-06,16.36,736.2,61.35
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",HI,Hawaii,2026-06,52.72,2372.4,197.7
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ID,Idaho,2026-06,14.37,646.65,53.89
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IL,Illinois,2026-06,19.89,895.05,74.59
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IN,Indiana,2026-06,17.51,787.95,65.66
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IA,Iowa,2026-06,15.93,716.85,59.74
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KS,Kansas,2026-06,15.71,706.95,58.91
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KY,Kentucky,2026-06,14.26,641.7,53.48
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",LA,Louisiana,2026-06,13.49,607.05,50.59
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ME,Maine,2026-06,29.59,1331.55,110.96
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MD,Maryland,2026-06,21.84,982.8,81.9
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MA,Massachusetts,2026-06,29.61,1332.45,111.04
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MI,Michigan,2026-06,22.99,1034.55,86.21
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MN,Minnesota,2026-06,17.52,788.4,65.7
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MS,Mississippi,2026-06,14.88,669.6,55.8
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MO,Missouri,2026-06,16.22,729.9,60.82
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MT,Montana,2026-06,15.14,681.3,56.78
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NE,Nebraska,2026-06,13.25,596.25,49.69
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NV,Nevada,2026-06,13.11,589.95,49.16
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NH,New Hampshire,2026-06,27.01,1215.45,101.29
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NJ,New Jersey,2026-06,24.95,1122.75,93.56
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NM,New Mexico,2026-06,15.06,677.7,56.48
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NY,New York,2026-06,29.49,1327.05,110.59
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NC,North Carolina,2026-06,14.74,663.3,55.28
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ND,North Dakota,2026-06,14.12,635.4,52.95
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OH,Ohio,2026-06,19.19,863.55,71.96
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OK,Oklahoma,2026-06,14.33,644.85,53.74
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OR,Oregon,2026-06,16.32,734.4,61.2
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",PA,Pennsylvania,2026-06,21.73,977.85,81.49
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",RI,Rhode Island,2026-06,29.23,1315.35,109.61
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SC,South Carolina,2026-06,15.55,699.75,58.31
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SD,South Dakota,2026-06,15.36,691.2,57.6
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TN,Tennessee,2026-06,14.07,633.15,52.76
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TX,Texas,2026-06,15.94,717.3,59.77
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",UT,Utah,2026-06,13.37,601.65,50.14
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VT,Vermont,2026-06,24.44,1099.8,91.65
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VA,Virginia,2026-06,17.22,774.9,64.58
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WA,Washington,2026-06,14.91,670.95,55.91
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WV,West Virginia,2026-06,15.45,695.25,57.94
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WI,Wisconsin,2026-06,19.56,880.2,73.35
-electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WY,Wyoming,2026-06,15.24,685.8,57.15
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AL,Alabama,2026-06,16.4,98.4,8.2
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AK,Alaska,2026-06,28.21,169.26,14.11
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AZ,Arizona,2026-06,15.18,91.08,7.59
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AR,Arkansas,2026-06,14.12,84.72,7.06
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CA,California,2026-06,34.74,208.44,17.37
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CO,Colorado,2026-06,17.13,102.78,8.56
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CT,Connecticut,2026-06,24.32,145.92,12.16
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DE,Delaware,2026-06,19.29,115.74,9.64
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DC,District of Columbia,2026-06,24.39,146.34,12.2
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,FL,Florida,2026-06,15.1,90.6,7.55
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,GA,Georgia,2026-06,16.36,98.16,8.18
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,HI,Hawaii,2026-06,52.72,316.32,26.36
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ID,Idaho,2026-06,14.37,86.22,7.18
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IL,Illinois,2026-06,19.89,119.34,9.94
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IN,Indiana,2026-06,17.51,105.06,8.76
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IA,Iowa,2026-06,15.93,95.58,7.96
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KS,Kansas,2026-06,15.71,94.26,7.86
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KY,Kentucky,2026-06,14.26,85.56,7.13
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,LA,Louisiana,2026-06,13.49,80.94,6.75
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ME,Maine,2026-06,29.59,177.54,14.79
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MD,Maryland,2026-06,21.84,131.04,10.92
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MA,Massachusetts,2026-06,29.61,177.66,14.8
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MI,Michigan,2026-06,22.99,137.94,11.49
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MN,Minnesota,2026-06,17.52,105.12,8.76
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MS,Mississippi,2026-06,14.88,89.28,7.44
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MO,Missouri,2026-06,16.22,97.32,8.11
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MT,Montana,2026-06,15.14,90.84,7.57
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NE,Nebraska,2026-06,13.25,79.5,6.62
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NV,Nevada,2026-06,13.11,78.66,6.55
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NH,New Hampshire,2026-06,27.01,162.06,13.51
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NJ,New Jersey,2026-06,24.95,149.7,12.47
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NM,New Mexico,2026-06,15.06,90.36,7.53
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NY,New York,2026-06,29.49,176.94,14.74
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NC,North Carolina,2026-06,14.74,88.44,7.37
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ND,North Dakota,2026-06,14.12,84.72,7.06
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OH,Ohio,2026-06,19.19,115.14,9.6
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OK,Oklahoma,2026-06,14.33,85.98,7.17
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OR,Oregon,2026-06,16.32,97.92,8.16
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,PA,Pennsylvania,2026-06,21.73,130.38,10.87
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,RI,Rhode Island,2026-06,29.23,175.38,14.62
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SC,South Carolina,2026-06,15.55,93.3,7.77
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SD,South Dakota,2026-06,15.36,92.16,7.68
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TN,Tennessee,2026-06,14.07,84.42,7.04
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TX,Texas,2026-06,15.94,95.64,7.97
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,UT,Utah,2026-06,13.37,80.22,6.68
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VT,Vermont,2026-06,24.44,146.64,12.22
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VA,Virginia,2026-06,17.22,103.32,8.61
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WA,Washington,2026-06,14.91,89.46,7.46
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WV,West Virginia,2026-06,15.45,92.7,7.73
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WI,Wisconsin,2026-06,19.56,117.36,9.78
-refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WY,Wyoming,2026-06,15.24,91.44,7.62
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AL,Alabama,2026-06,16.4,76.75,6.4
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AK,Alaska,2026-06,28.21,132.02,11.0
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AZ,Arizona,2026-06,15.18,71.04,5.92
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AR,Arkansas,2026-06,14.12,66.08,5.51
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CA,California,2026-06,34.74,162.58,13.55
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CO,Colorado,2026-06,17.13,80.17,6.68
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CT,Connecticut,2026-06,24.32,113.82,9.48
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DE,Delaware,2026-06,19.29,90.28,7.52
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DC,District of Columbia,2026-06,24.39,114.15,9.51
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,FL,Florida,2026-06,15.1,70.67,5.89
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,GA,Georgia,2026-06,16.36,76.56,6.38
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,HI,Hawaii,2026-06,52.72,246.73,20.56
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ID,Idaho,2026-06,14.37,67.25,5.6
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IL,Illinois,2026-06,19.89,93.09,7.76
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IN,Indiana,2026-06,17.51,81.95,6.83
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IA,Iowa,2026-06,15.93,74.55,6.21
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KS,Kansas,2026-06,15.71,73.52,6.13
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KY,Kentucky,2026-06,14.26,66.74,5.56
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,LA,Louisiana,2026-06,13.49,63.13,5.26
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ME,Maine,2026-06,29.59,138.48,11.54
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MD,Maryland,2026-06,21.84,102.21,8.52
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MA,Massachusetts,2026-06,29.61,138.57,11.55
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MI,Michigan,2026-06,22.99,107.59,8.97
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MN,Minnesota,2026-06,17.52,81.99,6.83
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MS,Mississippi,2026-06,14.88,69.64,5.8
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MO,Missouri,2026-06,16.22,75.91,6.33
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MT,Montana,2026-06,15.14,70.86,5.9
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NE,Nebraska,2026-06,13.25,62.01,5.17
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NV,Nevada,2026-06,13.11,61.35,5.11
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NH,New Hampshire,2026-06,27.01,126.41,10.53
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NJ,New Jersey,2026-06,24.95,116.77,9.73
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NM,New Mexico,2026-06,15.06,70.48,5.87
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NY,New York,2026-06,29.49,138.01,11.5
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NC,North Carolina,2026-06,14.74,68.98,5.75
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ND,North Dakota,2026-06,14.12,66.08,5.51
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OH,Ohio,2026-06,19.19,89.81,7.48
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OK,Oklahoma,2026-06,14.33,67.06,5.59
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OR,Oregon,2026-06,16.32,76.38,6.36
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,PA,Pennsylvania,2026-06,21.73,101.7,8.47
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,RI,Rhode Island,2026-06,29.23,136.8,11.4
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SC,South Carolina,2026-06,15.55,72.77,6.06
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SD,South Dakota,2026-06,15.36,71.88,5.99
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TN,Tennessee,2026-06,14.07,65.85,5.49
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TX,Texas,2026-06,15.94,74.6,6.22
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,UT,Utah,2026-06,13.37,62.57,5.21
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VT,Vermont,2026-06,24.44,114.38,9.53
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VA,Virginia,2026-06,17.22,80.59,6.72
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WA,Washington,2026-06,14.91,69.78,5.81
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WV,West Virginia,2026-06,15.45,72.31,6.03
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WI,Wisconsin,2026-06,19.56,91.54,7.63
-clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WY,Wyoming,2026-06,15.24,71.32,5.94
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AL,Alabama,2026-06,16.4,51.17,4.26
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AK,Alaska,2026-06,28.21,88.02,7.33
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AZ,Arizona,2026-06,15.18,47.36,3.95
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AR,Arkansas,2026-06,14.12,44.05,3.67
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CA,California,2026-06,34.74,108.39,9.03
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CO,Colorado,2026-06,17.13,53.45,4.45
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CT,Connecticut,2026-06,24.32,75.88,6.32
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DE,Delaware,2026-06,19.29,60.18,5.02
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DC,District of Columbia,2026-06,24.39,76.1,6.34
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,FL,Florida,2026-06,15.1,47.11,3.93
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,GA,Georgia,2026-06,16.36,51.04,4.25
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,HI,Hawaii,2026-06,52.72,164.49,13.71
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ID,Idaho,2026-06,14.37,44.83,3.74
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IL,Illinois,2026-06,19.89,62.06,5.17
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IN,Indiana,2026-06,17.51,54.63,4.55
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IA,Iowa,2026-06,15.93,49.7,4.14
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KS,Kansas,2026-06,15.71,49.02,4.08
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KY,Kentucky,2026-06,14.26,44.49,3.71
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,LA,Louisiana,2026-06,13.49,42.09,3.51
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ME,Maine,2026-06,29.59,92.32,7.69
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MD,Maryland,2026-06,21.84,68.14,5.68
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MA,Massachusetts,2026-06,29.61,92.38,7.7
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MI,Michigan,2026-06,22.99,71.73,5.98
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MN,Minnesota,2026-06,17.52,54.66,4.56
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MS,Mississippi,2026-06,14.88,46.43,3.87
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MO,Missouri,2026-06,16.22,50.61,4.22
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MT,Montana,2026-06,15.14,47.24,3.94
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NE,Nebraska,2026-06,13.25,41.34,3.45
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NV,Nevada,2026-06,13.11,40.9,3.41
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NH,New Hampshire,2026-06,27.01,84.27,7.02
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NJ,New Jersey,2026-06,24.95,77.84,6.49
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NM,New Mexico,2026-06,15.06,46.99,3.92
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NY,New York,2026-06,29.49,92.01,7.67
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NC,North Carolina,2026-06,14.74,45.99,3.83
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ND,North Dakota,2026-06,14.12,44.05,3.67
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OH,Ohio,2026-06,19.19,59.87,4.99
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OK,Oklahoma,2026-06,14.33,44.71,3.73
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OR,Oregon,2026-06,16.32,50.92,4.24
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,PA,Pennsylvania,2026-06,21.73,67.8,5.65
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,RI,Rhode Island,2026-06,29.23,91.2,7.6
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SC,South Carolina,2026-06,15.55,48.52,4.04
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SD,South Dakota,2026-06,15.36,47.92,3.99
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TN,Tennessee,2026-06,14.07,43.9,3.66
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TX,Texas,2026-06,15.94,49.73,4.14
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,UT,Utah,2026-06,13.37,41.71,3.48
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VT,Vermont,2026-06,24.44,76.25,6.35
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VA,Virginia,2026-06,17.22,53.73,4.48
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WA,Washington,2026-06,14.91,46.52,3.88
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WV,West Virginia,2026-06,15.45,48.2,4.02
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WI,Wisconsin,2026-06,19.56,61.03,5.09
-dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WY,Wyoming,2026-06,15.24,47.55,3.96
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AL,Alabama,2026-06,16.4,85.28,7.11
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AK,Alaska,2026-06,28.21,146.69,12.22
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AZ,Arizona,2026-06,15.18,78.94,6.58
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AR,Arkansas,2026-06,14.12,73.42,6.12
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CA,California,2026-06,34.74,180.65,15.05
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CO,Colorado,2026-06,17.13,89.08,7.42
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CT,Connecticut,2026-06,24.32,126.46,10.54
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DE,Delaware,2026-06,19.29,100.31,8.36
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DC,District of Columbia,2026-06,24.39,126.83,10.57
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,FL,Florida,2026-06,15.1,78.52,6.54
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,GA,Georgia,2026-06,16.36,85.07,7.09
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,HI,Hawaii,2026-06,52.72,274.14,22.85
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ID,Idaho,2026-06,14.37,74.72,6.23
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IL,Illinois,2026-06,19.89,103.43,8.62
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IN,Indiana,2026-06,17.51,91.05,7.59
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IA,Iowa,2026-06,15.93,82.84,6.9
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KS,Kansas,2026-06,15.71,81.69,6.81
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KY,Kentucky,2026-06,14.26,74.15,6.18
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,LA,Louisiana,2026-06,13.49,70.15,5.85
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ME,Maine,2026-06,29.59,153.87,12.82
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MD,Maryland,2026-06,21.84,113.57,9.46
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MA,Massachusetts,2026-06,29.61,153.97,12.83
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MI,Michigan,2026-06,22.99,119.55,9.96
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MN,Minnesota,2026-06,17.52,91.1,7.59
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MS,Mississippi,2026-06,14.88,77.38,6.45
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MO,Missouri,2026-06,16.22,84.34,7.03
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MT,Montana,2026-06,15.14,78.73,6.56
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NE,Nebraska,2026-06,13.25,68.9,5.74
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NV,Nevada,2026-06,13.11,68.17,5.68
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NH,New Hampshire,2026-06,27.01,140.45,11.7
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NJ,New Jersey,2026-06,24.95,129.74,10.81
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NM,New Mexico,2026-06,15.06,78.31,6.53
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NY,New York,2026-06,29.49,153.35,12.78
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NC,North Carolina,2026-06,14.74,76.65,6.39
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ND,North Dakota,2026-06,14.12,73.42,6.12
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OH,Ohio,2026-06,19.19,99.79,8.32
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OK,Oklahoma,2026-06,14.33,74.52,6.21
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OR,Oregon,2026-06,16.32,84.86,7.07
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,PA,Pennsylvania,2026-06,21.73,113.0,9.42
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,RI,Rhode Island,2026-06,29.23,152.0,12.67
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SC,South Carolina,2026-06,15.55,80.86,6.74
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SD,South Dakota,2026-06,15.36,79.87,6.66
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TN,Tennessee,2026-06,14.07,73.16,6.1
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TX,Texas,2026-06,15.94,82.89,6.91
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,UT,Utah,2026-06,13.37,69.52,5.79
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VT,Vermont,2026-06,24.44,127.09,10.59
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VA,Virginia,2026-06,17.22,89.54,7.46
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WA,Washington,2026-06,14.91,77.53,6.46
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WV,West Virginia,2026-06,15.45,80.34,6.7
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WI,Wisconsin,2026-06,19.56,101.71,8.48
-electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WY,Wyoming,2026-06,15.24,79.25,6.6
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-06,16.4,118.08,9.84
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-06,28.21,203.11,16.93
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-06,15.18,109.3,9.11
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-06,14.12,101.66,8.47
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CA,California,2026-06,34.74,250.13,20.84
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-06,17.13,123.34,10.28
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-06,24.32,175.1,14.59
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-06,19.29,138.89,11.57
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-06,24.39,175.61,14.63
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-06,15.1,108.72,9.06
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-06,16.36,117.79,9.82
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-06,52.72,379.58,31.63
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-06,14.37,103.46,8.62
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-06,19.89,143.21,11.93
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-06,17.51,126.07,10.51
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-06,15.93,114.7,9.56
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-06,15.71,113.11,9.43
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-06,14.26,102.67,8.56
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-06,13.49,97.13,8.09
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-06,29.59,213.05,17.75
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-06,21.84,157.25,13.1
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-06,29.61,213.19,17.77
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-06,22.99,165.53,13.79
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-06,17.52,126.14,10.51
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-06,14.88,107.14,8.93
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-06,16.22,116.78,9.73
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-06,15.14,109.01,9.08
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-06,13.25,95.4,7.95
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-06,13.11,94.39,7.87
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-06,27.01,194.47,16.21
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-06,24.95,179.64,14.97
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-06,15.06,108.43,9.04
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-06,29.49,212.33,17.69
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-06,14.74,106.13,8.84
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-06,14.12,101.66,8.47
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-06,19.19,138.17,11.51
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-06,14.33,103.18,8.6
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-06,16.32,117.5,9.79
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-06,21.73,156.46,13.04
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-06,29.23,210.46,17.54
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-06,15.55,111.96,9.33
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-06,15.36,110.59,9.22
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-06,14.07,101.3,8.44
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-06,15.94,114.77,9.56
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-06,13.37,96.26,8.02
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-06,24.44,175.97,14.66
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-06,17.22,123.98,10.33
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-06,14.91,107.35,8.95
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-06,15.45,111.24,9.27
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-06,19.56,140.83,11.74
-dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-06,15.24,109.73,9.14
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AL,Alabama,2026-06,16.4,147.6,12.3
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AK,Alaska,2026-06,28.21,253.89,21.16
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AZ,Arizona,2026-06,15.18,136.62,11.38
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AR,Arkansas,2026-06,14.12,127.08,10.59
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CA,California,2026-06,34.74,312.66,26.06
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CO,Colorado,2026-06,17.13,154.17,12.85
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CT,Connecticut,2026-06,24.32,218.88,18.24
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DE,Delaware,2026-06,19.29,173.61,14.47
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DC,District of Columbia,2026-06,24.39,219.51,18.29
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,FL,Florida,2026-06,15.1,135.9,11.33
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,GA,Georgia,2026-06,16.36,147.24,12.27
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,HI,Hawaii,2026-06,52.72,474.48,39.54
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ID,Idaho,2026-06,14.37,129.33,10.78
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IL,Illinois,2026-06,19.89,179.01,14.92
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IN,Indiana,2026-06,17.51,157.59,13.13
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IA,Iowa,2026-06,15.93,143.37,11.95
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KS,Kansas,2026-06,15.71,141.39,11.78
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KY,Kentucky,2026-06,14.26,128.34,10.7
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,LA,Louisiana,2026-06,13.49,121.41,10.12
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ME,Maine,2026-06,29.59,266.31,22.19
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MD,Maryland,2026-06,21.84,196.56,16.38
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MA,Massachusetts,2026-06,29.61,266.49,22.21
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MI,Michigan,2026-06,22.99,206.91,17.24
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MN,Minnesota,2026-06,17.52,157.68,13.14
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MS,Mississippi,2026-06,14.88,133.92,11.16
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MO,Missouri,2026-06,16.22,145.98,12.16
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MT,Montana,2026-06,15.14,136.26,11.36
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NE,Nebraska,2026-06,13.25,119.25,9.94
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NV,Nevada,2026-06,13.11,117.99,9.83
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NH,New Hampshire,2026-06,27.01,243.09,20.26
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NJ,New Jersey,2026-06,24.95,224.55,18.71
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NM,New Mexico,2026-06,15.06,135.54,11.3
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NY,New York,2026-06,29.49,265.41,22.12
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NC,North Carolina,2026-06,14.74,132.66,11.05
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ND,North Dakota,2026-06,14.12,127.08,10.59
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OH,Ohio,2026-06,19.19,172.71,14.39
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OK,Oklahoma,2026-06,14.33,128.97,10.75
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OR,Oregon,2026-06,16.32,146.88,12.24
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,PA,Pennsylvania,2026-06,21.73,195.57,16.3
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,RI,Rhode Island,2026-06,29.23,263.07,21.92
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SC,South Carolina,2026-06,15.55,139.95,11.66
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SD,South Dakota,2026-06,15.36,138.24,11.52
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TN,Tennessee,2026-06,14.07,126.63,10.55
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TX,Texas,2026-06,15.94,143.46,11.95
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,UT,Utah,2026-06,13.37,120.33,10.03
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VT,Vermont,2026-06,24.44,219.96,18.33
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VA,Virginia,2026-06,17.22,154.98,12.91
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WA,Washington,2026-06,14.91,134.19,11.18
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WV,West Virginia,2026-06,15.45,139.05,11.59
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WI,Wisconsin,2026-06,19.56,176.04,14.67
-space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WY,Wyoming,2026-06,15.24,137.16,11.43
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AL,Alabama,2026-06,16.4,57.4,4.78
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AK,Alaska,2026-06,28.21,98.73,8.23
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AZ,Arizona,2026-06,15.18,53.13,4.43
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AR,Arkansas,2026-06,14.12,49.42,4.12
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CA,California,2026-06,34.74,121.59,10.13
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CO,Colorado,2026-06,17.13,59.95,5.0
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CT,Connecticut,2026-06,24.32,85.12,7.09
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DE,Delaware,2026-06,19.29,67.52,5.63
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DC,District of Columbia,2026-06,24.39,85.37,7.11
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,FL,Florida,2026-06,15.1,52.85,4.4
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,GA,Georgia,2026-06,16.36,57.26,4.77
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,HI,Hawaii,2026-06,52.72,184.52,15.38
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ID,Idaho,2026-06,14.37,50.29,4.19
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IL,Illinois,2026-06,19.89,69.61,5.8
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IN,Indiana,2026-06,17.51,61.29,5.11
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IA,Iowa,2026-06,15.93,55.75,4.65
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KS,Kansas,2026-06,15.71,54.99,4.58
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KY,Kentucky,2026-06,14.26,49.91,4.16
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,LA,Louisiana,2026-06,13.49,47.21,3.93
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ME,Maine,2026-06,29.59,103.56,8.63
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MD,Maryland,2026-06,21.84,76.44,6.37
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MA,Massachusetts,2026-06,29.61,103.63,8.64
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MI,Michigan,2026-06,22.99,80.47,6.71
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MN,Minnesota,2026-06,17.52,61.32,5.11
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MS,Mississippi,2026-06,14.88,52.08,4.34
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MO,Missouri,2026-06,16.22,56.77,4.73
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MT,Montana,2026-06,15.14,52.99,4.42
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NE,Nebraska,2026-06,13.25,46.38,3.86
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NV,Nevada,2026-06,13.11,45.88,3.82
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NH,New Hampshire,2026-06,27.01,94.53,7.88
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NJ,New Jersey,2026-06,24.95,87.33,7.28
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NM,New Mexico,2026-06,15.06,52.71,4.39
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NY,New York,2026-06,29.49,103.22,8.6
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NC,North Carolina,2026-06,14.74,51.59,4.3
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ND,North Dakota,2026-06,14.12,49.42,4.12
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OH,Ohio,2026-06,19.19,67.17,5.6
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OK,Oklahoma,2026-06,14.33,50.16,4.18
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OR,Oregon,2026-06,16.32,57.12,4.76
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,PA,Pennsylvania,2026-06,21.73,76.05,6.34
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,RI,Rhode Island,2026-06,29.23,102.31,8.53
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SC,South Carolina,2026-06,15.55,54.42,4.54
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SD,South Dakota,2026-06,15.36,53.76,4.48
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TN,Tennessee,2026-06,14.07,49.24,4.1
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TX,Texas,2026-06,15.94,55.79,4.65
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,UT,Utah,2026-06,13.37,46.79,3.9
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VT,Vermont,2026-06,24.44,85.54,7.13
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VA,Virginia,2026-06,17.22,60.27,5.02
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WA,Washington,2026-06,14.91,52.19,4.35
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WV,West Virginia,2026-06,15.45,54.08,4.51
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WI,Wisconsin,2026-06,19.56,68.46,5.7
-chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WY,Wyoming,2026-06,15.24,53.34,4.45
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AL,Alabama,2026-07,16.4,287.82,23.98
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AK,Alaska,2026-07,28.83,505.97,42.16
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AZ,Arizona,2026-07,15.38,269.92,22.49
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,AR,Arkansas,2026-07,14.33,251.49,20.96
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CA,California,2026-07,33.61,589.86,49.15
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CO,Colorado,2026-07,17.0,298.35,24.86
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,CT,Connecticut,2026-07,24.16,424.01,35.33
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DE,Delaware,2026-07,18.48,324.32,27.03
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,DC,District of Columbia,2026-07,25.21,442.44,36.87
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,FL,Florida,2026-07,15.03,263.78,21.98
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,GA,Georgia,2026-07,16.27,285.54,23.79
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,HI,Hawaii,2026-07,48.0,842.4,70.2
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ID,Idaho,2026-07,13.73,240.96,20.08
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IL,Illinois,2026-07,19.22,337.31,28.11
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IN,Indiana,2026-07,16.73,293.61,24.47
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,IA,Iowa,2026-07,15.99,280.62,23.39
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KS,Kansas,2026-07,15.27,267.99,22.33
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,KY,Kentucky,2026-07,13.81,242.37,20.2
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,LA,Louisiana,2026-07,12.72,223.24,18.6
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ME,Maine,2026-07,32.41,568.8,47.4
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MD,Maryland,2026-07,21.41,375.75,31.31
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MA,Massachusetts,2026-07,30.49,535.1,44.59
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MI,Michigan,2026-07,23.05,404.53,33.71
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MN,Minnesota,2026-07,17.45,306.25,25.52
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MS,Mississippi,2026-07,14.54,255.18,21.26
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MO,Missouri,2026-07,16.09,282.38,23.53
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,MT,Montana,2026-07,14.99,263.07,21.92
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NE,Nebraska,2026-07,13.78,241.84,20.15
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NV,Nevada,2026-07,12.77,224.11,18.68
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NH,New Hampshire,2026-07,26.6,466.83,38.9
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NJ,New Jersey,2026-07,25.19,442.08,36.84
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NM,New Mexico,2026-07,16.09,282.38,23.53
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NY,New York,2026-07,29.9,524.75,43.73
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,NC,North Carolina,2026-07,15.16,266.06,22.17
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,ND,North Dakota,2026-07,13.41,235.35,19.61
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OH,Ohio,2026-07,19.45,341.35,28.45
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OK,Oklahoma,2026-07,14.35,251.84,20.99
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,OR,Oregon,2026-07,15.97,280.27,23.36
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,PA,Pennsylvania,2026-07,21.72,381.19,31.77
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,RI,Rhode Island,2026-07,28.29,496.49,41.37
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SC,South Carolina,2026-07,15.47,271.5,22.62
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,SD,South Dakota,2026-07,15.37,269.74,22.48
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TN,Tennessee,2026-07,13.71,240.61,20.05
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,TX,Texas,2026-07,15.88,278.69,23.22
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,UT,Utah,2026-07,13.12,230.26,19.19
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VT,Vermont,2026-07,23.75,416.81,34.73
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,VA,Virginia,2026-07,17.55,308.0,25.67
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WA,Washington,2026-07,14.71,258.16,21.51
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WV,West Virginia,2026-07,15.78,276.94,23.08
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WI,Wisconsin,2026-07,19.06,334.5,27.88
+traditional-sauna,Traditional Sauna,Home wellness,1755,9 kW heater × 1.25 hours × 3 sessions/week,WY,Wyoming,2026-07,14.36,252.02,21.0
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AL,Alabama,2026-07,16.4,34.6,2.88
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AK,Alaska,2026-07,28.83,60.83,5.07
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AZ,Arizona,2026-07,15.38,32.45,2.7
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,AR,Arkansas,2026-07,14.33,30.24,2.52
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CA,California,2026-07,33.61,70.92,5.91
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CO,Colorado,2026-07,17.0,35.87,2.99
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,CT,Connecticut,2026-07,24.16,50.98,4.25
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DE,Delaware,2026-07,18.48,38.99,3.25
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,DC,District of Columbia,2026-07,25.21,53.19,4.43
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,FL,Florida,2026-07,15.03,31.71,2.64
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,GA,Georgia,2026-07,16.27,34.33,2.86
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,HI,Hawaii,2026-07,48.0,101.28,8.44
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ID,Idaho,2026-07,13.73,28.97,2.41
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IL,Illinois,2026-07,19.22,40.55,3.38
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IN,Indiana,2026-07,16.73,35.3,2.94
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,IA,Iowa,2026-07,15.99,33.74,2.81
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KS,Kansas,2026-07,15.27,32.22,2.68
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,KY,Kentucky,2026-07,13.81,29.14,2.43
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,LA,Louisiana,2026-07,12.72,26.84,2.24
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ME,Maine,2026-07,32.41,68.39,5.7
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MD,Maryland,2026-07,21.41,45.18,3.76
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MA,Massachusetts,2026-07,30.49,64.33,5.36
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MI,Michigan,2026-07,23.05,48.64,4.05
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MN,Minnesota,2026-07,17.45,36.82,3.07
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MS,Mississippi,2026-07,14.54,30.68,2.56
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MO,Missouri,2026-07,16.09,33.95,2.83
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,MT,Montana,2026-07,14.99,31.63,2.64
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NE,Nebraska,2026-07,13.78,29.08,2.42
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NV,Nevada,2026-07,12.77,26.94,2.25
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NH,New Hampshire,2026-07,26.6,56.13,4.68
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NJ,New Jersey,2026-07,25.19,53.15,4.43
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NM,New Mexico,2026-07,16.09,33.95,2.83
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NY,New York,2026-07,29.9,63.09,5.26
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,NC,North Carolina,2026-07,15.16,31.99,2.67
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,ND,North Dakota,2026-07,13.41,28.3,2.36
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OH,Ohio,2026-07,19.45,41.04,3.42
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OK,Oklahoma,2026-07,14.35,30.28,2.52
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,OR,Oregon,2026-07,15.97,33.7,2.81
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,PA,Pennsylvania,2026-07,21.72,45.83,3.82
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,RI,Rhode Island,2026-07,28.29,59.69,4.97
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SC,South Carolina,2026-07,15.47,32.64,2.72
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,SD,South Dakota,2026-07,15.37,32.43,2.7
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TN,Tennessee,2026-07,13.71,28.93,2.41
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,TX,Texas,2026-07,15.88,33.51,2.79
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,UT,Utah,2026-07,13.12,27.68,2.31
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VT,Vermont,2026-07,23.75,50.11,4.18
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,VA,Virginia,2026-07,17.55,37.03,3.09
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WA,Washington,2026-07,14.71,31.04,2.59
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WV,West Virginia,2026-07,15.78,33.3,2.77
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WI,Wisconsin,2026-07,19.06,40.22,3.35
+infrared-sauna,Infrared Sauna,Home wellness,211,1.8 kW × 45 minutes × 3 sessions/week,WY,Wyoming,2026-07,14.36,30.3,2.52
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AL,Alabama,2026-07,16.4,472.32,39.36
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AK,Alaska,2026-07,28.83,830.3,69.19
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AZ,Arizona,2026-07,15.38,442.94,36.91
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,AR,Arkansas,2026-07,14.33,412.7,34.39
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CA,California,2026-07,33.61,967.97,80.66
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CO,Colorado,2026-07,17.0,489.6,40.8
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,CT,Connecticut,2026-07,24.16,695.81,57.98
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DE,Delaware,2026-07,18.48,532.22,44.35
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,DC,District of Columbia,2026-07,25.21,726.05,60.5
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,FL,Florida,2026-07,15.03,432.86,36.07
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,GA,Georgia,2026-07,16.27,468.58,39.05
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,HI,Hawaii,2026-07,48.0,1382.4,115.2
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ID,Idaho,2026-07,13.73,395.42,32.95
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IL,Illinois,2026-07,19.22,553.54,46.13
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IN,Indiana,2026-07,16.73,481.82,40.15
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,IA,Iowa,2026-07,15.99,460.51,38.38
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KS,Kansas,2026-07,15.27,439.78,36.65
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,KY,Kentucky,2026-07,13.81,397.73,33.14
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,LA,Louisiana,2026-07,12.72,366.34,30.53
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ME,Maine,2026-07,32.41,933.41,77.78
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MD,Maryland,2026-07,21.41,616.61,51.38
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MA,Massachusetts,2026-07,30.49,878.11,73.18
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MI,Michigan,2026-07,23.05,663.84,55.32
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MN,Minnesota,2026-07,17.45,502.56,41.88
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MS,Mississippi,2026-07,14.54,418.75,34.9
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MO,Missouri,2026-07,16.09,463.39,38.62
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,MT,Montana,2026-07,14.99,431.71,35.98
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NE,Nebraska,2026-07,13.78,396.86,33.07
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NV,Nevada,2026-07,12.77,367.78,30.65
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NH,New Hampshire,2026-07,26.6,766.08,63.84
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NJ,New Jersey,2026-07,25.19,725.47,60.46
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NM,New Mexico,2026-07,16.09,463.39,38.62
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NY,New York,2026-07,29.9,861.12,71.76
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,NC,North Carolina,2026-07,15.16,436.61,36.38
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,ND,North Dakota,2026-07,13.41,386.21,32.18
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OH,Ohio,2026-07,19.45,560.16,46.68
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OK,Oklahoma,2026-07,14.35,413.28,34.44
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,OR,Oregon,2026-07,15.97,459.94,38.33
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,PA,Pennsylvania,2026-07,21.72,625.54,52.13
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,RI,Rhode Island,2026-07,28.29,814.75,67.9
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SC,South Carolina,2026-07,15.47,445.54,37.13
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,SD,South Dakota,2026-07,15.37,442.66,36.89
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TN,Tennessee,2026-07,13.71,394.85,32.9
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,TX,Texas,2026-07,15.88,457.34,38.11
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,UT,Utah,2026-07,13.12,377.86,31.49
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VT,Vermont,2026-07,23.75,684.0,57.0
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,VA,Virginia,2026-07,17.55,505.44,42.12
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WA,Washington,2026-07,14.71,423.65,35.3
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WV,West Virginia,2026-07,15.78,454.46,37.87
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WI,Wisconsin,2026-07,19.06,548.93,45.74
+ev-charging,EV Charging,Transportation,2880,60 kWh charge × 4 full-equivalent charges/month,WY,Wyoming,2026-07,14.36,413.57,34.46
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AL,Alabama,2026-07,16.4,551.04,45.92
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AK,Alaska,2026-07,28.83,968.69,80.72
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AZ,Arizona,2026-07,15.38,516.77,43.06
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,AR,Arkansas,2026-07,14.33,481.49,40.12
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CA,California,2026-07,33.61,1129.3,94.11
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CO,Colorado,2026-07,17.0,571.2,47.6
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,CT,Connecticut,2026-07,24.16,811.78,67.65
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DE,Delaware,2026-07,18.48,620.93,51.74
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,DC,District of Columbia,2026-07,25.21,847.06,70.59
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,FL,Florida,2026-07,15.03,505.01,42.08
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,GA,Georgia,2026-07,16.27,546.67,45.56
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,HI,Hawaii,2026-07,48.0,1612.8,134.4
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ID,Idaho,2026-07,13.73,461.33,38.44
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IL,Illinois,2026-07,19.22,645.79,53.82
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IN,Indiana,2026-07,16.73,562.13,46.84
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,IA,Iowa,2026-07,15.99,537.26,44.77
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KS,Kansas,2026-07,15.27,513.07,42.76
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,KY,Kentucky,2026-07,13.81,464.02,38.67
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,LA,Louisiana,2026-07,12.72,427.39,35.62
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ME,Maine,2026-07,32.41,1088.98,90.75
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MD,Maryland,2026-07,21.41,719.38,59.95
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MA,Massachusetts,2026-07,30.49,1024.46,85.37
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MI,Michigan,2026-07,23.05,774.48,64.54
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MN,Minnesota,2026-07,17.45,586.32,48.86
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MS,Mississippi,2026-07,14.54,488.54,40.71
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MO,Missouri,2026-07,16.09,540.62,45.05
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,MT,Montana,2026-07,14.99,503.66,41.97
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NE,Nebraska,2026-07,13.78,463.01,38.58
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NV,Nevada,2026-07,12.77,429.07,35.76
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NH,New Hampshire,2026-07,26.6,893.76,74.48
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NJ,New Jersey,2026-07,25.19,846.38,70.53
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NM,New Mexico,2026-07,16.09,540.62,45.05
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NY,New York,2026-07,29.9,1004.64,83.72
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,NC,North Carolina,2026-07,15.16,509.38,42.45
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,ND,North Dakota,2026-07,13.41,450.58,37.55
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OH,Ohio,2026-07,19.45,653.52,54.46
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OK,Oklahoma,2026-07,14.35,482.16,40.18
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,OR,Oregon,2026-07,15.97,536.59,44.72
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,PA,Pennsylvania,2026-07,21.72,729.79,60.82
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,RI,Rhode Island,2026-07,28.29,950.54,79.21
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SC,South Carolina,2026-07,15.47,519.79,43.32
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,SD,South Dakota,2026-07,15.37,516.43,43.04
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TN,Tennessee,2026-07,13.71,460.66,38.39
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,TX,Texas,2026-07,15.88,533.57,44.46
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,UT,Utah,2026-07,13.12,440.83,36.74
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VT,Vermont,2026-07,23.75,798.0,66.5
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,VA,Virginia,2026-07,17.55,589.68,49.14
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WA,Washington,2026-07,14.71,494.26,41.19
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WV,West Virginia,2026-07,15.78,530.21,44.18
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WI,Wisconsin,2026-07,19.06,640.42,53.37
+central-air,Central Air Conditioning,HVAC,3360,3.5 kW × 8 hours/day × 120 days/year,WY,Wyoming,2026-07,14.36,482.5,40.21
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-07,16.4,590.4,49.2
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-07,28.83,1037.88,86.49
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-07,15.38,553.68,46.14
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-07,14.33,515.88,42.99
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CA,California,2026-07,33.61,1209.96,100.83
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-07,17.0,612.0,51.0
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-07,24.16,869.76,72.48
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-07,18.48,665.28,55.44
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-07,25.21,907.56,75.63
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-07,15.03,541.08,45.09
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-07,16.27,585.72,48.81
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-07,48.0,1728.0,144.0
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-07,13.73,494.28,41.19
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-07,19.22,691.92,57.66
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-07,16.73,602.28,50.19
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-07,15.99,575.64,47.97
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-07,15.27,549.72,45.81
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-07,13.81,497.16,41.43
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-07,12.72,457.92,38.16
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-07,32.41,1166.76,97.23
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-07,21.41,770.76,64.23
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-07,30.49,1097.64,91.47
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-07,23.05,829.8,69.15
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-07,17.45,628.2,52.35
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-07,14.54,523.44,43.62
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-07,16.09,579.24,48.27
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-07,14.99,539.64,44.97
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-07,13.78,496.08,41.34
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-07,12.77,459.72,38.31
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-07,26.6,957.6,79.8
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-07,25.19,906.84,75.57
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-07,16.09,579.24,48.27
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-07,29.9,1076.4,89.7
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-07,15.16,545.76,45.48
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-07,13.41,482.76,40.23
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-07,19.45,700.2,58.35
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-07,14.35,516.6,43.05
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-07,15.97,574.92,47.91
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-07,21.72,781.92,65.16
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-07,28.29,1018.44,84.87
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-07,15.47,556.92,46.41
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-07,15.37,553.32,46.11
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-07,13.71,493.56,41.13
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-07,15.88,571.68,47.64
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-07,13.12,472.32,39.36
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-07,23.75,855.0,71.25
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-07,17.55,631.8,52.65
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-07,14.71,529.56,44.13
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-07,15.78,568.08,47.34
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-07,19.06,686.16,57.18
+heat-pump,Heat Pump,HVAC,3600,2.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-07,14.36,516.96,43.08
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AL,Alabama,2026-07,16.4,359.16,29.93
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AK,Alaska,2026-07,28.83,631.38,52.61
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AZ,Arizona,2026-07,15.38,336.82,28.07
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,AR,Arkansas,2026-07,14.33,313.83,26.15
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CA,California,2026-07,33.61,736.06,61.34
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CO,Colorado,2026-07,17.0,372.3,31.03
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,CT,Connecticut,2026-07,24.16,529.1,44.09
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DE,Delaware,2026-07,18.48,404.71,33.73
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,DC,District of Columbia,2026-07,25.21,552.1,46.01
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,FL,Florida,2026-07,15.03,329.16,27.43
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,GA,Georgia,2026-07,16.27,356.31,29.69
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,HI,Hawaii,2026-07,48.0,1051.2,87.6
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ID,Idaho,2026-07,13.73,300.69,25.06
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IL,Illinois,2026-07,19.22,420.92,35.08
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IN,Indiana,2026-07,16.73,366.39,30.53
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,IA,Iowa,2026-07,15.99,350.18,29.18
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KS,Kansas,2026-07,15.27,334.41,27.87
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,KY,Kentucky,2026-07,13.81,302.44,25.2
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,LA,Louisiana,2026-07,12.72,278.57,23.21
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ME,Maine,2026-07,32.41,709.78,59.15
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MD,Maryland,2026-07,21.41,468.88,39.07
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MA,Massachusetts,2026-07,30.49,667.73,55.64
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MI,Michigan,2026-07,23.05,504.8,42.07
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MN,Minnesota,2026-07,17.45,382.15,31.85
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MS,Mississippi,2026-07,14.54,318.43,26.54
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MO,Missouri,2026-07,16.09,352.37,29.36
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,MT,Montana,2026-07,14.99,328.28,27.36
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NE,Nebraska,2026-07,13.78,301.78,25.15
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NV,Nevada,2026-07,12.77,279.66,23.31
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NH,New Hampshire,2026-07,26.6,582.54,48.55
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NJ,New Jersey,2026-07,25.19,551.66,45.97
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NM,New Mexico,2026-07,16.09,352.37,29.36
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NY,New York,2026-07,29.9,654.81,54.57
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,NC,North Carolina,2026-07,15.16,332.0,27.67
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,ND,North Dakota,2026-07,13.41,293.68,24.47
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OH,Ohio,2026-07,19.45,425.96,35.5
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OK,Oklahoma,2026-07,14.35,314.26,26.19
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,OR,Oregon,2026-07,15.97,349.74,29.15
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,PA,Pennsylvania,2026-07,21.72,475.67,39.64
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,RI,Rhode Island,2026-07,28.29,619.55,51.63
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SC,South Carolina,2026-07,15.47,338.79,28.23
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,SD,South Dakota,2026-07,15.37,336.6,28.05
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TN,Tennessee,2026-07,13.71,300.25,25.02
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,TX,Texas,2026-07,15.88,347.77,28.98
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,UT,Utah,2026-07,13.12,287.33,23.94
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VT,Vermont,2026-07,23.75,520.12,43.34
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,VA,Virginia,2026-07,17.55,384.35,32.03
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WA,Washington,2026-07,14.71,322.15,26.85
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WV,West Virginia,2026-07,15.78,345.58,28.8
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WI,Wisconsin,2026-07,19.06,417.41,34.78
+hot-tub,Hot Tub,Home wellness,2190,6 kWh/day average standardized consumption,WY,Wyoming,2026-07,14.36,314.48,26.21
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-07,16.4,354.24,29.52
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-07,28.83,622.73,51.89
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-07,15.38,332.21,27.68
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-07,14.33,309.53,25.79
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CA,California,2026-07,33.61,725.98,60.5
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-07,17.0,367.2,30.6
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-07,24.16,521.86,43.49
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-07,18.48,399.17,33.26
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-07,25.21,544.54,45.38
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-07,15.03,324.65,27.05
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-07,16.27,351.43,29.29
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-07,48.0,1036.8,86.4
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-07,13.73,296.57,24.71
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-07,19.22,415.15,34.6
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-07,16.73,361.37,30.11
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-07,15.99,345.38,28.78
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-07,15.27,329.83,27.49
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-07,13.81,298.3,24.86
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-07,12.72,274.75,22.9
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-07,32.41,700.06,58.34
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-07,21.41,462.46,38.54
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-07,30.49,658.58,54.88
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-07,23.05,497.88,41.49
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-07,17.45,376.92,31.41
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-07,14.54,314.06,26.17
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-07,16.09,347.54,28.96
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-07,14.99,323.78,26.98
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-07,13.78,297.65,24.8
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-07,12.77,275.83,22.99
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-07,26.6,574.56,47.88
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-07,25.19,544.1,45.34
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-07,16.09,347.54,28.96
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-07,29.9,645.84,53.82
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-07,15.16,327.46,27.29
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-07,13.41,289.66,24.14
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-07,19.45,420.12,35.01
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-07,14.35,309.96,25.83
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-07,15.97,344.95,28.75
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-07,21.72,469.15,39.1
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-07,28.29,611.06,50.92
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-07,15.47,334.15,27.85
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-07,15.37,331.99,27.67
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-07,13.71,296.14,24.68
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-07,15.88,343.01,28.58
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-07,13.12,283.39,23.62
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-07,23.75,513.0,42.75
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-07,17.55,379.08,31.59
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-07,14.71,317.74,26.48
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-07,15.78,340.85,28.4
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-07,19.06,411.7,34.31
+pool-pump,Pool Pump,Pool,2160,1.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-07,14.36,310.18,25.85
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AL,Alabama,2026-07,16.4,738.0,61.5
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AK,Alaska,2026-07,28.83,1297.35,108.11
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AZ,Arizona,2026-07,15.38,692.1,57.68
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",AR,Arkansas,2026-07,14.33,644.85,53.74
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CA,California,2026-07,33.61,1512.45,126.04
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CO,Colorado,2026-07,17.0,765.0,63.75
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",CT,Connecticut,2026-07,24.16,1087.2,90.6
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DE,Delaware,2026-07,18.48,831.6,69.3
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",DC,District of Columbia,2026-07,25.21,1134.45,94.54
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",FL,Florida,2026-07,15.03,676.35,56.36
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",GA,Georgia,2026-07,16.27,732.15,61.01
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",HI,Hawaii,2026-07,48.0,2160.0,180.0
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ID,Idaho,2026-07,13.73,617.85,51.49
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IL,Illinois,2026-07,19.22,864.9,72.07
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IN,Indiana,2026-07,16.73,752.85,62.74
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",IA,Iowa,2026-07,15.99,719.55,59.96
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KS,Kansas,2026-07,15.27,687.15,57.26
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",KY,Kentucky,2026-07,13.81,621.45,51.79
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",LA,Louisiana,2026-07,12.72,572.4,47.7
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ME,Maine,2026-07,32.41,1458.45,121.54
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MD,Maryland,2026-07,21.41,963.45,80.29
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MA,Massachusetts,2026-07,30.49,1372.05,114.34
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MI,Michigan,2026-07,23.05,1037.25,86.44
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MN,Minnesota,2026-07,17.45,785.25,65.44
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MS,Mississippi,2026-07,14.54,654.3,54.52
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MO,Missouri,2026-07,16.09,724.05,60.34
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",MT,Montana,2026-07,14.99,674.55,56.21
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NE,Nebraska,2026-07,13.78,620.1,51.68
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NV,Nevada,2026-07,12.77,574.65,47.89
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NH,New Hampshire,2026-07,26.6,1197.0,99.75
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NJ,New Jersey,2026-07,25.19,1133.55,94.46
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NM,New Mexico,2026-07,16.09,724.05,60.34
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NY,New York,2026-07,29.9,1345.5,112.12
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",NC,North Carolina,2026-07,15.16,682.2,56.85
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",ND,North Dakota,2026-07,13.41,603.45,50.29
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OH,Ohio,2026-07,19.45,875.25,72.94
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OK,Oklahoma,2026-07,14.35,645.75,53.81
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",OR,Oregon,2026-07,15.97,718.65,59.89
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",PA,Pennsylvania,2026-07,21.72,977.4,81.45
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",RI,Rhode Island,2026-07,28.29,1273.05,106.09
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SC,South Carolina,2026-07,15.47,696.15,58.01
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",SD,South Dakota,2026-07,15.37,691.65,57.64
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TN,Tennessee,2026-07,13.71,616.95,51.41
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",TX,Texas,2026-07,15.88,714.6,59.55
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",UT,Utah,2026-07,13.12,590.4,49.2
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VT,Vermont,2026-07,23.75,1068.75,89.06
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",VA,Virginia,2026-07,17.55,789.75,65.81
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WA,Washington,2026-07,14.71,661.95,55.16
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WV,West Virginia,2026-07,15.78,710.1,59.18
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WI,Wisconsin,2026-07,19.06,857.7,71.47
+electric-water-heater,Electric Water Heater,Appliance,4500,"4,500 kWh/year standardized household scenario",WY,Wyoming,2026-07,14.36,646.2,53.85
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AL,Alabama,2026-07,16.4,98.4,8.2
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AK,Alaska,2026-07,28.83,172.98,14.41
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AZ,Arizona,2026-07,15.38,92.28,7.69
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,AR,Arkansas,2026-07,14.33,85.98,7.17
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CA,California,2026-07,33.61,201.66,16.8
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CO,Colorado,2026-07,17.0,102.0,8.5
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,CT,Connecticut,2026-07,24.16,144.96,12.08
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DE,Delaware,2026-07,18.48,110.88,9.24
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,DC,District of Columbia,2026-07,25.21,151.26,12.6
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,FL,Florida,2026-07,15.03,90.18,7.51
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,GA,Georgia,2026-07,16.27,97.62,8.13
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,HI,Hawaii,2026-07,48.0,288.0,24.0
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ID,Idaho,2026-07,13.73,82.38,6.87
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IL,Illinois,2026-07,19.22,115.32,9.61
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IN,Indiana,2026-07,16.73,100.38,8.37
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,IA,Iowa,2026-07,15.99,95.94,8.0
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KS,Kansas,2026-07,15.27,91.62,7.64
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,KY,Kentucky,2026-07,13.81,82.86,6.91
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,LA,Louisiana,2026-07,12.72,76.32,6.36
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ME,Maine,2026-07,32.41,194.46,16.2
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MD,Maryland,2026-07,21.41,128.46,10.71
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MA,Massachusetts,2026-07,30.49,182.94,15.24
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MI,Michigan,2026-07,23.05,138.3,11.53
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MN,Minnesota,2026-07,17.45,104.7,8.72
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MS,Mississippi,2026-07,14.54,87.24,7.27
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MO,Missouri,2026-07,16.09,96.54,8.04
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,MT,Montana,2026-07,14.99,89.94,7.5
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NE,Nebraska,2026-07,13.78,82.68,6.89
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NV,Nevada,2026-07,12.77,76.62,6.39
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NH,New Hampshire,2026-07,26.6,159.6,13.3
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NJ,New Jersey,2026-07,25.19,151.14,12.6
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NM,New Mexico,2026-07,16.09,96.54,8.04
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NY,New York,2026-07,29.9,179.4,14.95
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,NC,North Carolina,2026-07,15.16,90.96,7.58
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,ND,North Dakota,2026-07,13.41,80.46,6.7
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OH,Ohio,2026-07,19.45,116.7,9.72
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OK,Oklahoma,2026-07,14.35,86.1,7.17
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,OR,Oregon,2026-07,15.97,95.82,7.99
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,PA,Pennsylvania,2026-07,21.72,130.32,10.86
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,RI,Rhode Island,2026-07,28.29,169.74,14.14
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SC,South Carolina,2026-07,15.47,92.82,7.74
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,SD,South Dakota,2026-07,15.37,92.22,7.68
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TN,Tennessee,2026-07,13.71,82.26,6.86
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,TX,Texas,2026-07,15.88,95.28,7.94
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,UT,Utah,2026-07,13.12,78.72,6.56
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VT,Vermont,2026-07,23.75,142.5,11.88
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,VA,Virginia,2026-07,17.55,105.3,8.78
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WA,Washington,2026-07,14.71,88.26,7.36
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WV,West Virginia,2026-07,15.78,94.68,7.89
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WI,Wisconsin,2026-07,19.06,114.36,9.53
+refrigerator,Refrigerator,Appliance,600,600 kWh/year standardized refrigerator,WY,Wyoming,2026-07,14.36,86.16,7.18
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AL,Alabama,2026-07,16.4,76.75,6.4
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AK,Alaska,2026-07,28.83,134.92,11.24
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AZ,Arizona,2026-07,15.38,71.98,6.0
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,AR,Arkansas,2026-07,14.33,67.06,5.59
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CA,California,2026-07,33.61,157.29,13.11
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CO,Colorado,2026-07,17.0,79.56,6.63
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,CT,Connecticut,2026-07,24.16,113.07,9.42
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DE,Delaware,2026-07,18.48,86.49,7.21
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,DC,District of Columbia,2026-07,25.21,117.98,9.83
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,FL,Florida,2026-07,15.03,70.34,5.86
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,GA,Georgia,2026-07,16.27,76.14,6.35
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,HI,Hawaii,2026-07,48.0,224.64,18.72
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ID,Idaho,2026-07,13.73,64.26,5.35
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IL,Illinois,2026-07,19.22,89.95,7.5
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IN,Indiana,2026-07,16.73,78.3,6.52
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,IA,Iowa,2026-07,15.99,74.83,6.24
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KS,Kansas,2026-07,15.27,71.46,5.96
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,KY,Kentucky,2026-07,13.81,64.63,5.39
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,LA,Louisiana,2026-07,12.72,59.53,4.96
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ME,Maine,2026-07,32.41,151.68,12.64
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MD,Maryland,2026-07,21.41,100.2,8.35
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MA,Massachusetts,2026-07,30.49,142.69,11.89
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MI,Michigan,2026-07,23.05,107.87,8.99
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MN,Minnesota,2026-07,17.45,81.67,6.81
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MS,Mississippi,2026-07,14.54,68.05,5.67
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MO,Missouri,2026-07,16.09,75.3,6.28
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,MT,Montana,2026-07,14.99,70.15,5.85
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NE,Nebraska,2026-07,13.78,64.49,5.37
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NV,Nevada,2026-07,12.77,59.76,4.98
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NH,New Hampshire,2026-07,26.6,124.49,10.37
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NJ,New Jersey,2026-07,25.19,117.89,9.82
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NM,New Mexico,2026-07,16.09,75.3,6.28
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NY,New York,2026-07,29.9,139.93,11.66
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,NC,North Carolina,2026-07,15.16,70.95,5.91
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,ND,North Dakota,2026-07,13.41,62.76,5.23
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OH,Ohio,2026-07,19.45,91.03,7.59
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OK,Oklahoma,2026-07,14.35,67.16,5.6
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,OR,Oregon,2026-07,15.97,74.74,6.23
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,PA,Pennsylvania,2026-07,21.72,101.65,8.47
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,RI,Rhode Island,2026-07,28.29,132.4,11.03
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SC,South Carolina,2026-07,15.47,72.4,6.03
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,SD,South Dakota,2026-07,15.37,71.93,5.99
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TN,Tennessee,2026-07,13.71,64.16,5.35
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,TX,Texas,2026-07,15.88,74.32,6.19
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,UT,Utah,2026-07,13.12,61.4,5.12
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VT,Vermont,2026-07,23.75,111.15,9.26
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,VA,Virginia,2026-07,17.55,82.13,6.84
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WA,Washington,2026-07,14.71,68.84,5.74
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WV,West Virginia,2026-07,15.78,73.85,6.15
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WI,Wisconsin,2026-07,19.06,89.2,7.43
+clothes-dryer,Electric Clothes Dryer,Appliance,468,3 kW × 45 minutes × 4 loads/week,WY,Wyoming,2026-07,14.36,67.2,5.6
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AL,Alabama,2026-07,16.4,51.17,4.26
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AK,Alaska,2026-07,28.83,89.95,7.5
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AZ,Arizona,2026-07,15.38,47.99,4.0
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,AR,Arkansas,2026-07,14.33,44.71,3.73
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CA,California,2026-07,33.61,104.86,8.74
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CO,Colorado,2026-07,17.0,53.04,4.42
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,CT,Connecticut,2026-07,24.16,75.38,6.28
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DE,Delaware,2026-07,18.48,57.66,4.8
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,DC,District of Columbia,2026-07,25.21,78.66,6.55
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,FL,Florida,2026-07,15.03,46.89,3.91
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,GA,Georgia,2026-07,16.27,50.76,4.23
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,HI,Hawaii,2026-07,48.0,149.76,12.48
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ID,Idaho,2026-07,13.73,42.84,3.57
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IL,Illinois,2026-07,19.22,59.97,5.0
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IN,Indiana,2026-07,16.73,52.2,4.35
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,IA,Iowa,2026-07,15.99,49.89,4.16
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KS,Kansas,2026-07,15.27,47.64,3.97
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,KY,Kentucky,2026-07,13.81,43.09,3.59
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,LA,Louisiana,2026-07,12.72,39.69,3.31
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ME,Maine,2026-07,32.41,101.12,8.43
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MD,Maryland,2026-07,21.41,66.8,5.57
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MA,Massachusetts,2026-07,30.49,95.13,7.93
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MI,Michigan,2026-07,23.05,71.92,5.99
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MN,Minnesota,2026-07,17.45,54.44,4.54
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MS,Mississippi,2026-07,14.54,45.36,3.78
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MO,Missouri,2026-07,16.09,50.2,4.18
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,MT,Montana,2026-07,14.99,46.77,3.9
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NE,Nebraska,2026-07,13.78,42.99,3.58
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NV,Nevada,2026-07,12.77,39.84,3.32
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NH,New Hampshire,2026-07,26.6,82.99,6.92
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NJ,New Jersey,2026-07,25.19,78.59,6.55
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NM,New Mexico,2026-07,16.09,50.2,4.18
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NY,New York,2026-07,29.9,93.29,7.77
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,NC,North Carolina,2026-07,15.16,47.3,3.94
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,ND,North Dakota,2026-07,13.41,41.84,3.49
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OH,Ohio,2026-07,19.45,60.68,5.06
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OK,Oklahoma,2026-07,14.35,44.77,3.73
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,OR,Oregon,2026-07,15.97,49.83,4.15
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,PA,Pennsylvania,2026-07,21.72,67.77,5.65
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,RI,Rhode Island,2026-07,28.29,88.26,7.36
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SC,South Carolina,2026-07,15.47,48.27,4.02
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,SD,South Dakota,2026-07,15.37,47.95,4.0
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TN,Tennessee,2026-07,13.71,42.78,3.56
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,TX,Texas,2026-07,15.88,49.55,4.13
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,UT,Utah,2026-07,13.12,40.93,3.41
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VT,Vermont,2026-07,23.75,74.1,6.17
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,VA,Virginia,2026-07,17.55,54.76,4.56
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WA,Washington,2026-07,14.71,45.9,3.82
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WV,West Virginia,2026-07,15.78,49.23,4.1
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WI,Wisconsin,2026-07,19.06,59.47,4.96
+dishwasher,Dishwasher,Appliance,312,1.2 kW × 1 hour × 5 cycles/week,WY,Wyoming,2026-07,14.36,44.8,3.73
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AL,Alabama,2026-07,16.4,85.28,7.11
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AK,Alaska,2026-07,28.83,149.92,12.49
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AZ,Arizona,2026-07,15.38,79.98,6.66
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,AR,Arkansas,2026-07,14.33,74.52,6.21
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CA,California,2026-07,33.61,174.77,14.56
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CO,Colorado,2026-07,17.0,88.4,7.37
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,CT,Connecticut,2026-07,24.16,125.63,10.47
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DE,Delaware,2026-07,18.48,96.1,8.01
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,DC,District of Columbia,2026-07,25.21,131.09,10.92
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,FL,Florida,2026-07,15.03,78.16,6.51
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,GA,Georgia,2026-07,16.27,84.6,7.05
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,HI,Hawaii,2026-07,48.0,249.6,20.8
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ID,Idaho,2026-07,13.73,71.4,5.95
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IL,Illinois,2026-07,19.22,99.94,8.33
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IN,Indiana,2026-07,16.73,87.0,7.25
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,IA,Iowa,2026-07,15.99,83.15,6.93
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KS,Kansas,2026-07,15.27,79.4,6.62
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,KY,Kentucky,2026-07,13.81,71.81,5.98
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,LA,Louisiana,2026-07,12.72,66.14,5.51
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ME,Maine,2026-07,32.41,168.53,14.04
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MD,Maryland,2026-07,21.41,111.33,9.28
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MA,Massachusetts,2026-07,30.49,158.55,13.21
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MI,Michigan,2026-07,23.05,119.86,9.99
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MN,Minnesota,2026-07,17.45,90.74,7.56
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MS,Mississippi,2026-07,14.54,75.61,6.3
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MO,Missouri,2026-07,16.09,83.67,6.97
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,MT,Montana,2026-07,14.99,77.95,6.5
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NE,Nebraska,2026-07,13.78,71.66,5.97
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NV,Nevada,2026-07,12.77,66.4,5.53
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NH,New Hampshire,2026-07,26.6,138.32,11.53
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NJ,New Jersey,2026-07,25.19,130.99,10.92
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NM,New Mexico,2026-07,16.09,83.67,6.97
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NY,New York,2026-07,29.9,155.48,12.96
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,NC,North Carolina,2026-07,15.16,78.83,6.57
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,ND,North Dakota,2026-07,13.41,69.73,5.81
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OH,Ohio,2026-07,19.45,101.14,8.43
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OK,Oklahoma,2026-07,14.35,74.62,6.22
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,OR,Oregon,2026-07,15.97,83.04,6.92
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,PA,Pennsylvania,2026-07,21.72,112.94,9.41
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,RI,Rhode Island,2026-07,28.29,147.11,12.26
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SC,South Carolina,2026-07,15.47,80.44,6.7
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,SD,South Dakota,2026-07,15.37,79.92,6.66
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TN,Tennessee,2026-07,13.71,71.29,5.94
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,TX,Texas,2026-07,15.88,82.58,6.88
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,UT,Utah,2026-07,13.12,68.22,5.69
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VT,Vermont,2026-07,23.75,123.5,10.29
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,VA,Virginia,2026-07,17.55,91.26,7.61
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WA,Washington,2026-07,14.71,76.49,6.37
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WV,West Virginia,2026-07,15.78,82.06,6.84
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WI,Wisconsin,2026-07,19.06,99.11,8.26
+electric-oven,Electric Oven,Appliance,520,2.5 kW × 1 hour × 4 uses/week,WY,Wyoming,2026-07,14.36,74.67,6.22
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AL,Alabama,2026-07,16.4,118.08,9.84
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AK,Alaska,2026-07,28.83,207.58,17.3
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AZ,Arizona,2026-07,15.38,110.74,9.23
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,AR,Arkansas,2026-07,14.33,103.18,8.6
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CA,California,2026-07,33.61,241.99,20.17
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CO,Colorado,2026-07,17.0,122.4,10.2
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,CT,Connecticut,2026-07,24.16,173.95,14.5
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DE,Delaware,2026-07,18.48,133.06,11.09
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,DC,District of Columbia,2026-07,25.21,181.51,15.13
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,FL,Florida,2026-07,15.03,108.22,9.02
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,GA,Georgia,2026-07,16.27,117.14,9.76
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,HI,Hawaii,2026-07,48.0,345.6,28.8
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ID,Idaho,2026-07,13.73,98.86,8.24
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IL,Illinois,2026-07,19.22,138.38,11.53
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IN,Indiana,2026-07,16.73,120.46,10.04
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,IA,Iowa,2026-07,15.99,115.13,9.59
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KS,Kansas,2026-07,15.27,109.94,9.16
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,KY,Kentucky,2026-07,13.81,99.43,8.29
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,LA,Louisiana,2026-07,12.72,91.58,7.63
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ME,Maine,2026-07,32.41,233.35,19.45
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MD,Maryland,2026-07,21.41,154.15,12.85
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MA,Massachusetts,2026-07,30.49,219.53,18.29
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MI,Michigan,2026-07,23.05,165.96,13.83
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MN,Minnesota,2026-07,17.45,125.64,10.47
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MS,Mississippi,2026-07,14.54,104.69,8.72
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MO,Missouri,2026-07,16.09,115.85,9.65
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,MT,Montana,2026-07,14.99,107.93,8.99
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NE,Nebraska,2026-07,13.78,99.22,8.27
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NV,Nevada,2026-07,12.77,91.94,7.66
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NH,New Hampshire,2026-07,26.6,191.52,15.96
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NJ,New Jersey,2026-07,25.19,181.37,15.11
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NM,New Mexico,2026-07,16.09,115.85,9.65
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NY,New York,2026-07,29.9,215.28,17.94
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,NC,North Carolina,2026-07,15.16,109.15,9.1
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,ND,North Dakota,2026-07,13.41,96.55,8.05
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OH,Ohio,2026-07,19.45,140.04,11.67
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OK,Oklahoma,2026-07,14.35,103.32,8.61
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,OR,Oregon,2026-07,15.97,114.98,9.58
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,PA,Pennsylvania,2026-07,21.72,156.38,13.03
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,RI,Rhode Island,2026-07,28.29,203.69,16.97
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SC,South Carolina,2026-07,15.47,111.38,9.28
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,SD,South Dakota,2026-07,15.37,110.66,9.22
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TN,Tennessee,2026-07,13.71,98.71,8.23
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,TX,Texas,2026-07,15.88,114.34,9.53
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,UT,Utah,2026-07,13.12,94.46,7.87
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VT,Vermont,2026-07,23.75,171.0,14.25
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,VA,Virginia,2026-07,17.55,126.36,10.53
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WA,Washington,2026-07,14.71,105.91,8.83
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WV,West Virginia,2026-07,15.78,113.62,9.47
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WI,Wisconsin,2026-07,19.06,137.23,11.44
+dehumidifier,Dehumidifier,Air quality,720,0.5 kW × 8 hours/day × 180 days/year,WY,Wyoming,2026-07,14.36,103.39,8.62
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AL,Alabama,2026-07,16.4,147.6,12.3
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AK,Alaska,2026-07,28.83,259.47,21.62
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AZ,Arizona,2026-07,15.38,138.42,11.54
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,AR,Arkansas,2026-07,14.33,128.97,10.75
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CA,California,2026-07,33.61,302.49,25.21
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CO,Colorado,2026-07,17.0,153.0,12.75
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,CT,Connecticut,2026-07,24.16,217.44,18.12
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DE,Delaware,2026-07,18.48,166.32,13.86
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,DC,District of Columbia,2026-07,25.21,226.89,18.91
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,FL,Florida,2026-07,15.03,135.27,11.27
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,GA,Georgia,2026-07,16.27,146.43,12.2
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,HI,Hawaii,2026-07,48.0,432.0,36.0
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ID,Idaho,2026-07,13.73,123.57,10.3
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IL,Illinois,2026-07,19.22,172.98,14.41
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IN,Indiana,2026-07,16.73,150.57,12.55
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,IA,Iowa,2026-07,15.99,143.91,11.99
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KS,Kansas,2026-07,15.27,137.43,11.45
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,KY,Kentucky,2026-07,13.81,124.29,10.36
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,LA,Louisiana,2026-07,12.72,114.48,9.54
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ME,Maine,2026-07,32.41,291.69,24.31
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MD,Maryland,2026-07,21.41,192.69,16.06
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MA,Massachusetts,2026-07,30.49,274.41,22.87
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MI,Michigan,2026-07,23.05,207.45,17.29
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MN,Minnesota,2026-07,17.45,157.05,13.09
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MS,Mississippi,2026-07,14.54,130.86,10.91
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MO,Missouri,2026-07,16.09,144.81,12.07
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,MT,Montana,2026-07,14.99,134.91,11.24
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NE,Nebraska,2026-07,13.78,124.02,10.34
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NV,Nevada,2026-07,12.77,114.93,9.58
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NH,New Hampshire,2026-07,26.6,239.4,19.95
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NJ,New Jersey,2026-07,25.19,226.71,18.89
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NM,New Mexico,2026-07,16.09,144.81,12.07
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NY,New York,2026-07,29.9,269.1,22.42
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,NC,North Carolina,2026-07,15.16,136.44,11.37
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,ND,North Dakota,2026-07,13.41,120.69,10.06
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OH,Ohio,2026-07,19.45,175.05,14.59
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OK,Oklahoma,2026-07,14.35,129.15,10.76
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,OR,Oregon,2026-07,15.97,143.73,11.98
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,PA,Pennsylvania,2026-07,21.72,195.48,16.29
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,RI,Rhode Island,2026-07,28.29,254.61,21.22
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SC,South Carolina,2026-07,15.47,139.23,11.6
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,SD,South Dakota,2026-07,15.37,138.33,11.53
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TN,Tennessee,2026-07,13.71,123.39,10.28
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,TX,Texas,2026-07,15.88,142.92,11.91
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,UT,Utah,2026-07,13.12,118.08,9.84
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VT,Vermont,2026-07,23.75,213.75,17.81
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,VA,Virginia,2026-07,17.55,157.95,13.16
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WA,Washington,2026-07,14.71,132.39,11.03
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WV,West Virginia,2026-07,15.78,142.02,11.84
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WI,Wisconsin,2026-07,19.06,171.54,14.29
+space-heater,Space Heater,HVAC,900,1.5 kW × 5 hours/day × 120 days/year,WY,Wyoming,2026-07,14.36,129.24,10.77
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AL,Alabama,2026-07,16.4,57.4,4.78
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AK,Alaska,2026-07,28.83,100.91,8.41
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AZ,Arizona,2026-07,15.38,53.83,4.49
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,AR,Arkansas,2026-07,14.33,50.16,4.18
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CA,California,2026-07,33.61,117.64,9.8
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CO,Colorado,2026-07,17.0,59.5,4.96
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,CT,Connecticut,2026-07,24.16,84.56,7.05
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DE,Delaware,2026-07,18.48,64.68,5.39
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,DC,District of Columbia,2026-07,25.21,88.23,7.35
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,FL,Florida,2026-07,15.03,52.6,4.38
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,GA,Georgia,2026-07,16.27,56.94,4.75
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,HI,Hawaii,2026-07,48.0,168.0,14.0
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ID,Idaho,2026-07,13.73,48.05,4.0
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IL,Illinois,2026-07,19.22,67.27,5.61
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IN,Indiana,2026-07,16.73,58.55,4.88
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,IA,Iowa,2026-07,15.99,55.97,4.66
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KS,Kansas,2026-07,15.27,53.45,4.45
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,KY,Kentucky,2026-07,13.81,48.34,4.03
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,LA,Louisiana,2026-07,12.72,44.52,3.71
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ME,Maine,2026-07,32.41,113.43,9.45
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MD,Maryland,2026-07,21.41,74.94,6.24
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MA,Massachusetts,2026-07,30.49,106.72,8.89
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MI,Michigan,2026-07,23.05,80.67,6.72
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MN,Minnesota,2026-07,17.45,61.07,5.09
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MS,Mississippi,2026-07,14.54,50.89,4.24
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MO,Missouri,2026-07,16.09,56.31,4.69
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,MT,Montana,2026-07,14.99,52.47,4.37
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NE,Nebraska,2026-07,13.78,48.23,4.02
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NV,Nevada,2026-07,12.77,44.7,3.72
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NH,New Hampshire,2026-07,26.6,93.1,7.76
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NJ,New Jersey,2026-07,25.19,88.17,7.35
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NM,New Mexico,2026-07,16.09,56.31,4.69
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NY,New York,2026-07,29.9,104.65,8.72
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,NC,North Carolina,2026-07,15.16,53.06,4.42
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,ND,North Dakota,2026-07,13.41,46.94,3.91
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OH,Ohio,2026-07,19.45,68.08,5.67
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OK,Oklahoma,2026-07,14.35,50.22,4.19
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,OR,Oregon,2026-07,15.97,55.9,4.66
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,PA,Pennsylvania,2026-07,21.72,76.02,6.33
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,RI,Rhode Island,2026-07,28.29,99.02,8.25
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SC,South Carolina,2026-07,15.47,54.15,4.51
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,SD,South Dakota,2026-07,15.37,53.8,4.48
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TN,Tennessee,2026-07,13.71,47.98,4.0
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,TX,Texas,2026-07,15.88,55.58,4.63
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,UT,Utah,2026-07,13.12,45.92,3.83
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VT,Vermont,2026-07,23.75,83.12,6.93
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,VA,Virginia,2026-07,17.55,61.43,5.12
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WA,Washington,2026-07,14.71,51.48,4.29
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WV,West Virginia,2026-07,15.78,55.23,4.6
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WI,Wisconsin,2026-07,19.06,66.71,5.56
+chest-freezer,Chest Freezer,Appliance,350,350 kWh/year standardized freezer,WY,Wyoming,2026-07,14.36,50.26,4.19
