@@ -1,52 +1,52 @@
 state_code,state,period,rate_cents_kwh,month_over_month_pct,year_over_year_pct,five_year_pct,live
-AL,Alabama,2026-07,16.4,0.0,2.95,23.96,True
-AK,Alaska,2026-07,28.83,2.2,5.6,23.26,True
-AZ,Arizona,2026-07,15.38,1.32,0.26,21.68,True
-AR,Arkansas,2026-07,14.33,1.49,8.07,24.07,True
-CA,California,2026-07,33.61,-3.25,2.91,49.44,True
-CO,Colorado,2026-07,17.0,-0.76,6.32,26.96,True
-CT,Connecticut,2026-07,24.16,-0.66,-12.46,9.32,True
-DE,Delaware,2026-07,18.48,-4.2,11.46,56.08,True
-DC,District of Columbia,2026-07,25.21,3.36,9.42,95.88,True
-FL,Florida,2026-07,15.03,-0.46,-0.53,27.59,True
-GA,Georgia,2026-07,16.27,-0.55,4.56,20.79,True
-HI,Hawaii,2026-07,48.0,-8.95,21.95,43.37,True
-ID,Idaho,2026-07,13.73,-4.45,11.81,32.15,True
-IL,Illinois,2026-07,19.22,-3.37,11.61,51.58,True
-IN,Indiana,2026-07,16.73,-4.45,3.4,25.41,True
-IA,Iowa,2026-07,15.99,0.38,4.44,11.12,True
-KS,Kansas,2026-07,15.27,-2.8,5.6,16.39,True
-KY,Kentucky,2026-07,13.81,-3.16,5.18,19.15,True
-LA,Louisiana,2026-07,12.72,-5.71,-3.05,16.7,True
-ME,Maine,2026-07,32.41,9.53,15.83,97.98,True
-MD,Maryland,2026-07,21.41,-1.97,13.7,65.33,True
-MA,Massachusetts,2026-07,30.49,2.97,1.4,33.26,True
-MI,Michigan,2026-07,23.05,0.26,12.17,29.49,True
-MN,Minnesota,2026-07,17.45,-0.4,3.13,24.11,True
-MS,Mississippi,2026-07,14.54,-2.28,7.07,26.66,True
-MO,Missouri,2026-07,16.09,-0.8,3.41,22.36,True
-MT,Montana,2026-07,14.99,-0.99,5.05,29.9,True
-NE,Nebraska,2026-07,13.78,4.0,7.32,19.41,True
-NV,Nevada,2026-07,12.77,-2.59,3.07,17.7,True
-NH,New Hampshire,2026-07,26.6,-1.52,16.72,39.63,True
-NJ,New Jersey,2026-07,25.19,0.96,-0.51,48.7,True
-NM,New Mexico,2026-07,16.09,6.84,1.84,11.81,True
-NY,New York,2026-07,29.9,1.39,14.04,52.24,True
-NC,North Carolina,2026-07,15.16,2.85,13.39,33.22,True
-ND,North Dakota,2026-07,13.41,-5.03,0.75,9.47,True
-OH,Ohio,2026-07,19.45,1.35,11.91,48.7,True
-OK,Oklahoma,2026-07,14.35,0.14,6.14,28.24,True
-OR,Oregon,2026-07,15.97,-2.14,2.31,38.51,True
-PA,Pennsylvania,2026-07,21.72,-0.05,11.33,58.54,True
-RI,Rhode Island,2026-07,28.29,-3.22,8.06,37.93,True
-SC,South Carolina,2026-07,15.47,-0.51,5.24,22.78,True
-SD,South Dakota,2026-07,15.37,0.07,5.85,19.8,True
-TN,Tennessee,2026-07,13.71,-2.56,3.79,22.74,True
-TX,Texas,2026-07,15.88,-0.38,3.39,35.38,True
-UT,Utah,2026-07,13.12,-1.87,-2.45,20.04,True
-VT,Vermont,2026-07,23.75,-2.82,7.27,25.2,True
-VA,Virginia,2026-07,17.55,1.92,11.22,40.06,True
-WA,Washington,2026-07,14.71,-1.34,9.37,43.37,True
-WV,West Virginia,2026-07,15.78,2.14,2.27,30.41,True
-WI,Wisconsin,2026-07,19.06,-2.56,4.44,31.09,True
-WY,Wyoming,2026-07,14.36,-5.77,-1.91,22.84,True
+AL,Alabama,2026-08,16.33,-0.43,0.43,22.05,True
+AK,Alaska,2026-08,29.41,2.01,5.83,26.39,True
+AZ,Arizona,2026-08,15.05,-2.15,-0.27,19.63,True
+AR,Arkansas,2026-08,14.37,0.28,7.8,23.88,True
+CA,California,2026-08,29.75,-11.48,-3.78,27.19,True
+CO,Colorado,2026-08,17.17,1.0,5.92,27.19,True
+CT,Connecticut,2026-08,24.51,1.45,-18.76,17.84,True
+DE,Delaware,2026-08,18.7,1.19,10.98,54.04,True
+DC,District of Columbia,2026-08,25.98,3.05,12.08,98.62,True
+FL,Florida,2026-08,14.99,-0.27,-2.22,26.6,True
+GA,Georgia,2026-08,15.9,-2.27,2.25,20.18,True
+HI,Hawaii,2026-08,47.18,-1.71,22.45,41.43,True
+ID,Idaho,2026-08,13.37,-2.62,10.68,24.84,True
+IL,Illinois,2026-08,19.32,0.52,7.15,50.35,True
+IN,Indiana,2026-08,17.02,1.73,5.0,27.59,True
+IA,Iowa,2026-08,17.06,6.69,10.21,17.01,True
+KS,Kansas,2026-08,15.47,1.31,5.6,18.09,True
+KY,Kentucky,2026-08,13.8,-0.07,5.34,18.66,True
+LA,Louisiana,2026-08,12.87,1.18,2.55,12.4,True
+ME,Maine,2026-08,32.11,-0.93,14.11,87.45,True
+MD,Maryland,2026-08,21.4,-0.05,7.59,66.02,True
+MA,Massachusetts,2026-08,30.48,-0.03,-0.23,37.36,True
+MI,Michigan,2026-08,22.99,-0.26,10.9,28.65,True
+MN,Minnesota,2026-08,17.2,-1.43,1.84,22.77,True
+MS,Mississippi,2026-08,14.43,-0.76,6.02,25.92,True
+MO,Missouri,2026-08,16.02,-0.44,4.57,21.73,True
+MT,Montana,2026-08,15.57,3.87,8.96,34.11,True
+NE,Nebraska,2026-08,13.54,-1.74,5.78,17.23,True
+NV,Nevada,2026-08,12.72,-0.39,1.44,15.85,True
+NH,New Hampshire,2026-08,27.64,3.91,13.09,41.16,True
+NJ,New Jersey,2026-08,24.61,-2.3,-0.36,46.93,True
+NM,New Mexico,2026-08,16.51,2.61,3.32,14.49,True
+NY,New York,2026-08,28.65,-4.15,7.55,43.47,True
+NC,North Carolina,2026-08,14.95,-1.39,2.47,31.95,True
+ND,North Dakota,2026-08,13.31,-0.75,2.62,11.01,True
+OH,Ohio,2026-08,19.38,-0.36,10.43,48.73,True
+OK,Oklahoma,2026-08,14.82,3.28,2.77,30.34,True
+OR,Oregon,2026-08,15.92,-0.31,0.44,37.6,True
+PA,Pennsylvania,2026-08,21.77,0.28,9.23,57.07,True
+RI,Rhode Island,2026-08,28.18,-0.39,6.22,38.48,True
+SC,South Carolina,2026-08,15.76,1.87,3.96,22.84,True
+SD,South Dakota,2026-08,15.15,-1.43,8.99,18.36,True
+TN,Tennessee,2026-08,13.42,-2.12,2.52,20.47,True
+TX,Texas,2026-08,15.91,0.19,3.31,33.25,True
+UT,Utah,2026-08,13.31,1.45,-2.28,21.66,True
+VT,Vermont,2026-08,23.84,0.38,7.87,24.82,True
+VA,Virginia,2026-08,17.64,0.51,11.29,38.79,True
+WA,Washington,2026-08,14.63,-0.54,7.18,42.18,True
+WV,West Virginia,2026-08,16.31,3.36,4.42,33.58,True
+WI,Wisconsin,2026-08,19.41,1.84,5.26,34.42,True
+WY,Wyoming,2026-08,14.43,0.49,0.7,24.29,True
